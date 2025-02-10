@@ -571,7 +571,7 @@ def append_total_data(
                 len(data.get(cate, {}).get(name, [])),
             )
     if config.open_keep_all:
-        extra_cate = "📥其它频道"
+        extra_cate = "其它频道"
         for method, result in total_result:
             if config.open_method[method]:
                 origin_method = get_origin_method_name(method)
@@ -691,7 +691,7 @@ def write_channel_to_file(data, ipv6=False, callback=None):
             print()
         if open_empty_category and no_result_name:
             print("\n🈳 No result channel name:")
-            content += "\n\n🈳无结果频道,#genre#"
+            content += "\n\n无结果频道,#genre#"
             for i, name in enumerate(no_result_name):
                 end_char = ", " if i < len(no_result_name) - 1 else ""
                 print(name, end=end_char)
@@ -705,9 +705,9 @@ def write_channel_to_file(data, ipv6=False, callback=None):
                 "url"
             )
             if config.update_time_position == "top":
-                content = f"🕘️更新时间,#genre#\n{get_datetime_now()},{update_time_url}\n\n{content}"
+                content = f"更新时间,#genre#\n{get_datetime_now()},{update_time_url}\n\n{content}"
             else:
-                content += f"\n\n🕘️更新时间,#genre#\n{get_datetime_now()},{update_time_url}"
+                content += f"\n\n更新时间,#genre#\n{get_datetime_now()},{update_time_url}"
         with open(path, "w", encoding="utf-8") as f:
             f.write(content)
     except Exception as e:
