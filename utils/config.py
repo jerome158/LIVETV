@@ -320,7 +320,7 @@ class ConfigManager:
 
     @property
     def update_time_position(self):
-        return self.config.get("Settings", "update_time_position", fallback="bot")
+        return self.config.get("Settings", "update_time_position", fallback="bottom")
 
     @property
     def time_zone(self):
