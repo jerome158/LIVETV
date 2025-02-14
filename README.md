@@ -62,68 +62,6 @@ docker pull docker.1ms.run/guovern/iptv-api:latest
 docker pull guovern/iptv-api:lite
 ```
 
-🚀 代理加速（推荐国内用户使用）：
-
-```bash
-docker pull docker.1ms.run/guovern/iptv-api:lite
-```
-
-#### 2. 运行容器
-
-- iptv-api
-
-```bash
-docker run -d -p 8000:8000 guovern/iptv-api
-```
-
-- iptv-api:lite
-
-```bash
-docker run -d -p 8000:8000 guovern/iptv-api:lite
-```
-
-##### 挂载（推荐）：
-
-实现宿主机文件与容器文件同步，修改模板、配置、获取更新结果文件可直接在宿主机文件夹下操作
-
-以宿主机路径/etc/docker 为例：
-
-- iptv-api
-
-```bash
--v /etc/docker/config:/iptv-api/config
--v /etc/docker/output:/iptv-api/output
-```
-
-- iptv-api:lite
-
-```bash
--v /etc/docker/config:/iptv-api-lite/config
--v /etc/docker/output:/iptv-api-lite/output
-```
-
-##### 环境变量：
-
-- 端口
-
-```bash
--e APP_PORT=8000
-```
-
-- 定时执行时间
-
-```bash
--e UPDATE_CRON1="0 22 * * *"
--e UPDATE_CRON2="0 10 * * *"
-```
-
-#### 3. 更新结果
-
-- 接口地址：`ip:8000`
-- m3u 接口：`ip:8000/m3u`
-- txt 接口：`ip:8000/txt`
-- 接口内容：`ip:8000/content`
-- 测速日志：`ip:8000/log`
 
 ## 更新日志
 
