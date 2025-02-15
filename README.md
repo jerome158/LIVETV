@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./static/images/logo.png" alt="logo"/>
-  <h1 align="center">IPTV-API</h1>
+  <h1 align="center">HDTV-API</h1>
 </div>
 
 <div align="center">测试速度，选择线路</div>
