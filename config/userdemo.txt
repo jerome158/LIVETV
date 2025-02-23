@@ -1,22 +1,22 @@
 央视频道,#genre#
-CCTV-1
-CCTV-2
-CCTV-3
-CCTV-4
-CCTV-5
-CCTV-5+
-CCTV-6
-CCTV-7
-CCTV-8
-CCTV-9
-CCTV-10
-CCTV-11
-CCTV-12
-CCTV-13
-CCTV-14
-CCTV-15
-CCTV-16
-CCTV-17
+CCTV1
+CCTV2
+CCTV3
+CCTV4
+CCTV5
+CCTV5+
+CCTV6
+CCTV7
+CCTV8
+CCTV9
+CCTV10
+CCTV11
+CCTV12
+CCTV13
+CCTV14
+CCTV15
+CCTV16
+CCTV17
 
 卫视频道,#genre#
 广东卫视
@@ -55,11 +55,13 @@ Discovery
 航拍中国第二季
 
 电影频道,#genre#
-星空卫视
+CHC家庭影院
+CHC动作电影
+CHC高清电影
 黑莓电影
 纬来电影
 龙华电影
-NewTV动作电影
+靖天映画
 
 特区频道,#genre#
 凤凰中文
@@ -70,7 +72,7 @@ NewTV动作电影
 游戏动画,#genre#
 金鹰卡通
 黑莓动画
-炫动卡通
+哈哈炫动
 游戏风云
 电竞游戏
 
