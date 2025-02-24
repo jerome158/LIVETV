@@ -18,11 +18,6 @@ CCTV-15
 CCTV-16
 CCTV-17
 CCTV4K
-CCTV兵器科技
-CCTV第一剧场
-CCTV怀旧剧场
-CCTV风云足球
-CCTV世界地理
 
 卫视频道,#genre#
 东方卫视
@@ -60,7 +55,11 @@ CCTV世界地理
 世界地理
 求索科学
 求索纪录
-Discovery
+CCTV兵器科技
+CCTV第一剧场
+CCTV怀旧剧场
+CCTV风云足球
+CCTV世界地理
 
 电影频道,#genre#
 家庭影院
