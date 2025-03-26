@@ -38,4 +38,4 @@ jobs:
           cp ../IPV4.txt ./IPV4.txt
           git add IPV4.txt
           git commit -m "Sync file from GitHub $(date)"
-          git push origin main
+          git push origin master
