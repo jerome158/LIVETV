@@ -1,16 +1,40 @@
-name: Sync from GitHub to Gitee
+name: Sync File to Gitee
+
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天定时执行 ‌:ml-citation{ref="4,6" data="citationList"}
+    - cron: '0 0 * * *'  # 每天UTC时间00:00运行（北京时间08:00）
+  workflow_dispatch:  # 允许手动触发
+
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout GitHub repo
+      - name: Checkout GitHub Repo
         uses: actions/checkout@v4
-      - name: Push to Gitee
+
+      - name: Download File from GitHub
         run: |
-          git remote add gitee https://gitee.com/JR158/DIR.git
-          git push gitee HEAD:master
+          # 示例：直接下载某个文件（替换为实际URL）
+          curl -o example.txt https://raw.githubusercontent.com/username/repo/main/path/to/file
+
+      - name: Clone Gitee Repo
         env:
-          GITEE_TOKEN: ${{ secrets.GITEE_JR158 }}  # 需配置Gitee访问令牌 ‌:ml-citation{ref="5,8" data="citationList"}
+          GITEE_USER: ${{ secrets.GITEE_USERNAME }}
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+        run: |
+          git clone "https://${GITEE_USER}:${GITEE_TOKEN}@gitee.com/${GITEE_USER}/repo.git"
+          cd repo
+
+      - name: Copy File & Push to Gitee
+        env:
+          GITEE_USER: ${{ secrets.GITEE_USERNAME }}
+          GITEE_REPO: ${{ secrets.GITEE_REPO }}
+        run: |
+          cd repo
+          git config user.name "Auto Sync"
+          git config user.email "auto-sync@users.noreply.github.com"
+          # 替换文件
+          cp ../example.txt ./example.txt
+          git add example.txt
+          git commit -m "Sync file from GitHub $(date)"
+          git push origin main
