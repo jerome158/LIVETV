@@ -40,4 +40,4 @@ jobs:
           git add IPV4.txt
           git add IPV6.txt
           git commit -m "Sync file from GitHub $(date)"
-          git push origin master
+          git push -f origin master
