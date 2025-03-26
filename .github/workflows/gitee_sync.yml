@@ -16,18 +16,19 @@ jobs:
         run: |
           # 示例：直接下载某个文件（替换为实际URL）
           curl -o IPV4.txt https://raw.githubusercontent.com/jerome158/LIVETV/edit/master/output/userresult.txt
+    
       - name: Clone Gitee Repo
         env:
-          GITEE_USER: ${{ secrets.GITEE_JR158 }}
-          GITEE_TOKEN: ${{ secrets.GITEE_JR158 }}
+    GITEE_USER: ${{ secrets.GITEE_USER }}
+    GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
         run: |
-          git clone "https://${GITEE_USER}:${GITEE_TOKEN}@gitee.com/${GITEE_USER}/DIR.git"
-          cd repo
+    git clone "https://${GITEE_USER}:${GITEE_TOKEN}@gitee.com/${GITEE_USER}/${{ secrets.GITEE_REPO }}.git"
+    cd ${{ secrets.GITEE_REPO }}
 
       - name: Copy File & Push to Gitee
         env:
-          GITEE_USER: ${{ secrets.GITEE_JR158 }}
-          GITEE_REPO: ${{ secrets.DIR }}
+          GITEE_USER: ${{ secrets.GITEE_USER }}
+          GITEE_REPO: ${{ secrets.GITEE_REPO }}
         run: |
           cd repo
           git config user.name "Auto Sync"
