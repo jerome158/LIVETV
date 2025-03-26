@@ -1,0 +1,16 @@
+name: Sync from GitHub to Gitee
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天定时执行 ‌:ml-citation{ref="4,6" data="citationList"}
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout GitHub repo
+        uses: actions/checkout@v4
+      - name: Push to Gitee
+        run: |
+          git remote add gitee https://gitee.com/JR158/DIR.git
+          git push gitee HEAD:master
+        env:
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}  # 需配置Gitee访问令牌 ‌:ml-citation{ref="5,8" data="citationList"}
