@@ -15,8 +15,7 @@ jobs:
       - name: Download File from GitHub
         run: |
           # 示例：直接下载某个文件（替换为实际URL）
-          curl -o example.txt https://raw.githubusercontent.com/username/repo/main/path/to/file
-
+          curl -o IPV4.txt https://raw.githubusercontent.com/jerome158/LIVETV/edit/master/output/userresult.txt
       - name: Clone Gitee Repo
         env:
           GITEE_USER: ${{ secrets.GITEE_USERNAME }}
@@ -34,7 +33,7 @@ jobs:
           git config user.name "Auto Sync"
           git config user.email "auto-sync@users.noreply.github.com"
           # 替换文件
-          cp ../example.txt ./example.txt
-          git add example.txt
+          cp ../IPV4.txt ./IPV4.txt
+          git add IPV4.txt
           git commit -m "Sync file from GitHub $(date)"
           git push origin main
