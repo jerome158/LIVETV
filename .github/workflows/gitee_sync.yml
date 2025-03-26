@@ -13,4 +13,4 @@ jobs:
           git remote add gitee https://gitee.com/JR158/DIR.git
           git push gitee HEAD:master
         env:
-          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}  # 需配置Gitee访问令牌 ‌:ml-citation{ref="5,8" data="citationList"}
+          GITEE_TOKEN: ${{ secrets.GITEE_JR158 }}  # 需配置Gitee访问令牌 ‌:ml-citation{ref="5,8" data="citationList"}
