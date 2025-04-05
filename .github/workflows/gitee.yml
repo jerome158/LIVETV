@@ -1,0 +1,48 @@
+name: Sync File to Gitee
+
+on:
+  schedule:
+    - cron: '0 18,8 * * *'  # 每天UTC时间00:00运行（北京时间08:00）
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout GitHub Repo
+        uses: actions/checkout@v4
+
+      - name: Download File from GitHub
+        run: |
+          # 示例：直接下载某个文件（替换为实际URL）
+          curl -o IPV4.txt https://raw.githubusercontent.com/jerome158/LIVETV/master/output/userresult.txt
+          curl -o IPV6.txt https://raw.githubusercontent.com/jerome158/LIVETV/master/output/ipv6/result.txt
+
+      - name: Clone Gitee Repo
+        env:
+          GITEE_USER: ${{ secrets.GITEE_USER }}
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+          GITEE_REPO: ${{ secrets.GITEE_REPO }}
+        run: |
+          git clone "https://${GITEE_USER}:${GITEE_TOKEN}@gitee.com/${GITEE_USER}/${{ secrets.GITEE_REPO }}.git"
+          cd ${{ secrets.GITEE_REPO }}
+
+      - name: Copy File & Push to Gitee
+        env:
+          GITEE_USER: ${{ secrets.GITEE_USER }}
+          GITEE_REPO: ${{ secrets.GITEE_REPO }}
+        run: |
+          cd ${{ secrets.GITEE_REPO }}
+          git config user.name "Auto Sync"
+          git config user.email "auto-sync@users.noreply.github.com"
+          # 替换文件
+          cp ../IPV4.txt ./IPV4.txt
+          cp ../IPV6.txt ./IPV6.txt
+          git add IPV4.txt IPV6.txt
+          # Check for changes and commit only if there are any
+          if ! git diff --cached --quiet; then
+            git commit -m "Sync file from GitHub $(date)"
+            git push -f origin master
+          else
+            echo "No changes to commit"
+          fi
