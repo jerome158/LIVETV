@@ -10,7 +10,6 @@ CCTV-4,http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
 CCTV-4,http://39.134.65.175/PLTV/88888888/224/3221225797/1.m3u8
 CCTV-5,http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
 CCTV-5,http://39.134.65.175/PLTV/88888888/224/3221225818/1.m3u8
-CCTV-5,https://ldcctvwbcdtxy.liveplay.myqcloud.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV-5+,http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
 CCTV-5+,http://39.134.65.175/PLTV/88888888/224/3221225507/1.m3u8
 CCTV-6,http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8
@@ -67,8 +66,8 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 东方卫视,http://14.153.183.65:8883/bptv/10000100000000050000000003873462.m3u8
 东南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010096
 东南卫视,http://14.153.183.65:8883/bptv/10000100000000050000000003873473.m3u8
-东南卫视,http://aa3.kkwk111.top/fj.php?id=5
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+东南卫视,http://aa3.kkwk111.top/fj.php?id=5
 甘肃卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010098
 甘肃卫视,http://14.153.183.65:8883/bptv/10000100000000050000000003887450.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
@@ -84,8 +83,8 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
 河南卫视,http://14.153.183.65:8883/bptv/10000100000000050000000003887270.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://nctv.top/IDOEPpiryt/hntv.php?id=hnws
 吉林卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010075
 吉林卫视,http://14.153.183.65:8883/bptv/10000100000000050000000004972569.m3u8
@@ -138,7 +137,6 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 
 特色频道,#genre#
-金鹰纪实,http://156.238.253.62:5555/tvbox/公众号好享生活小助手/湖南.php?id=jyjs
 
 电影综合,#genre#
 黑莓电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010073
@@ -151,7 +149,6 @@ CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 
 游戏动画,#genre#
-金鹰卡通,http://156.238.253.62:5555/tvbox/公众号好享生活小助手/湖南.php?id=jykt
 优漫卡通,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010118
 黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002
 名侦探柯南,http://1.94.31.214:35455/huya/30080236
