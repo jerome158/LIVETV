@@ -90,6 +90,7 @@ CCTV-17,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000056836
 CCTV-17,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EtihRNVe_x2y1Lgi_XWYeNw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOl8OnsD1vPD0mhNmo98J3J%2CEND
 CCTV-17,http://nas.suntao.online:35455/itv/1000000006000268004.m3u8?cdn=ystenlive
 CETV1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 CETV2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
