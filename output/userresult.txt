@@ -299,15 +299,16 @@ CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华电影,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
 CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=893aa32f9d861d92c0661b8125e5b12471106642e4d0f341956e45e2f60dbb2179c3b5b6f05c2e8242e24d254815578255456ce991c2d337b226ce49c025efe16f2d4715157e642b7447f0bf06
-CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy
 CHC动作电影,http://tv.scjyhd.com:4022/udp/239.11.0.142:5140
 CHC动作电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225661/index.m3u8
-CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
+CHC高清电影,http://58.19.38.162/rtp/228.0.0.233:6108
 
 特区频道,#genre#
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
