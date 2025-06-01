@@ -27,6 +27,7 @@ CCTV-11,http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
 CCTV-11,http://39.134.65.175/PLTV/88888888/224/3221225517/1.m3u8
 CCTV-12,http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8
 CCTV-12,http://39.134.65.175/PLTV/88888888/224/3221225669/1.m3u8
+CCTV-12,http://116.9.204.242:9901/tsfile/live/0012_1.m3u8
 CCTV-13,http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
 CCTV-13,http://39.134.65.175/PLTV/88888888/224/3221225812/1.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
@@ -41,19 +42,23 @@ CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 
 卫视频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+湖南卫视,http://183.11.239.36:808/hls/36/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
-黑龙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
+黑龙江卫视,https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/chunks.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
+安徽卫视,http://58.221.214.82:9901/tsfile/live/0130_1.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://aa3.kkwk111.top/fj.php?id=5
 东南卫视,http://8.138.7.223/tv/fjtv.php?id=5
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
+甘肃卫视,http://183.11.239.36:808/hls/119/index.m3u8
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
+贵州卫视,http://58.221.214.82:9901/tsfile/live/0120_1.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 河北卫视,http://php.fjl626.cn/hebei.php?id=hbws
@@ -85,8 +90,8 @@ CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 
 电影综合,#genre#
 CHC家庭影院,https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
-CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 
 特区频道,#genre#
@@ -103,4 +108,3 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 
 游戏动画,#genre#
 卡酷动画,http://61.138.128.226:19901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
