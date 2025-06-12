@@ -5,7 +5,6 @@ CCTV-2,http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
 CCTV-2,http://39.134.65.175/PLTV/88888888/224/3221225599/1.m3u8
 CCTV-3,http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
 CCTV-3,http://39.134.65.175/PLTV/88888888/224/3221225799/1.m3u8
-CCTV-3,http://nas.hssvm.com:8888/udp/225.1.1.158:5002
 CCTV-4,http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
 CCTV-4,http://39.134.65.175/PLTV/88888888/224/3221225797/1.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -33,7 +32,6 @@ CCTV-11,http://39.134.65.175/PLTV/88888888/224/3221225517/1.m3u8
 CCTV-11,http://119.32.12.17:2901/udp/224.1.100.44:11111
 CCTV-12,http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8
 CCTV-12,http://39.134.65.175/PLTV/88888888/224/3221225669/1.m3u8
-CCTV-12,http://58.243.224.242:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-13,http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
 CCTV-13,http://39.134.65.175/PLTV/88888888/224/3221225812/1.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
@@ -41,18 +39,21 @@ CCTV-14,http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
 CCTV-14,http://39.134.65.175/PLTV/88888888/224/3221225674/1.m3u8
 CCTV-15,http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
 CCTV-15,http://39.134.65.175/PLTV/88888888/224/3221225513/1.m3u8
+CCTV-15,http://36.105.100.208:35455/gaoma/cctv15.m3u8
 CCTV-16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
 CCTV-16,http://39.134.65.173/PLTV/88888888/224/3221225893/1.m3u8
+CCTV-16,http://dms.yryyj.site:8188/udp/239.76.254.200:9000
 CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 
 卫视频道,#genre#
 浙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-湖南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
 北京卫视,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 湖北卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖北卫视
@@ -61,10 +62,9 @@ CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 黑龙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=黑龙江卫视
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://qwt.zhibotv.top:2016/全网通.php?id=安徽卫视
-安徽卫视,http://113.195.8.230:9901/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
-重庆卫视,http://119.32.12.17:2901/udp/224.1.100.102:11111
 重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
+重庆卫视,http://119.32.12.17:2901/udp/224.1.100.102:11111
 东方卫视,http://omnix.cn:4000/udp/225.1.8.45:8032
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://8.138.7.223/tv/fjtv.php?id=5
@@ -77,7 +77,7 @@ CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 海南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=海南卫视
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 河北卫视,http://qwt.zhibotv.top:2016/全网通.php?id=河北卫视
-河北卫视,http://113.15.109.216:59901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://php.fjl626.cn/hebei.php?id=hbws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
@@ -105,12 +105,9 @@ CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 天津卫视,http://qwt.zhibotv.top:2016/全网通.php?id=天津卫视
 天津卫视,http://119.32.12.17:2901/udp/224.1.100.62:11111
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
-西藏卫视,http://122.246.75.199:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
-云南卫视,http://58.243.224.242:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-广东卫视,http://61.156.228.12:8154/tsfile/live/0125_1.m3u8
 
 特色频道,#genre#
 兵器科技,rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil
@@ -140,3 +137,4 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 
 游戏动画,#genre#
 卡酷动画,http://61.138.128.226:19901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+卡酷动画,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
