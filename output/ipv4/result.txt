@@ -10,6 +10,7 @@ CCTV-4,http://39.134.65.175/PLTV/88888888/224/3221225797/1.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
 CCTV-5,http://39.134.65.175/PLTV/88888888/224/3221225818/1.m3u8
+CCTV-5,http://120.238.94.10:9901/tsfile/live/1022_1.m3u8
 CCTV-5+,http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
 CCTV-5+,http://39.134.65.175/PLTV/88888888/224/3221225507/1.m3u8
 CCTV-5+,http://omnix.cn:4000/udp/225.1.8.20:8004
@@ -22,7 +23,7 @@ CCTV-8,http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
 CCTV-8,http://39.134.65.175/PLTV/88888888/224/3221225795/1.m3u8
 CCTV-9,http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
 CCTV-9,http://39.134.65.175/PLTV/88888888/224/3221225676/1.m3u8
-CCTV-9,http://omnix.cn:4000/udp/225.1.8.9:8112
+CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 CCTV-10,http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
 CCTV-10,http://39.134.65.175/PLTV/88888888/224/3221225677/1.m3u8
 CCTV-11,http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
@@ -36,39 +37,42 @@ CCTV-13,http://39.134.65.175/PLTV/88888888/224/3221225812/1.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-14,http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
 CCTV-14,http://39.134.65.175/PLTV/88888888/224/3221225674/1.m3u8
+CCTV-14,http://nas.hssvm.com:8888/udp/225.1.1.144:5002
 CCTV-15,http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
 CCTV-15,http://39.134.65.175/PLTV/88888888/224/3221225513/1.m3u8
 CCTV-16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
 CCTV-16,http://39.134.65.173/PLTV/88888888/224/3221225893/1.m3u8
 CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
+CCTV-17,http://61.156.228.12:8154/tsfile/live/0019_1.m3u8
 
 卫视频道,#genre#
 浙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&amp;d=d396e340de48108a9576134d5b090354&amp;k=60ede3db45d8640ab1db2b9f0dfa7549&amp;t=1671539989
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
 北京卫视,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://nas.hssvm.com:8888/udp/225.1.1.113:5002
+北京卫视,http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 湖北卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖北卫视
-湖北卫视,http://1b6467f415.iok.la:9931/tsfile/live/1068_1.m3u8
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
 黑龙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=黑龙江卫视
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://qwt.zhibotv.top:2016/全网通.php?id=安徽卫视
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
+东方卫视,http://58.19.43.46:9901/tsfile/live/1035_1.m3u8
 东方卫视,http://omnix.cn:4000/udp/225.1.8.45:8032
 东方卫视,http://182.150.23.74:808/hls/19/index.m3u8
-东南卫视,http://8.138.7.223/tv/fjtv.php?id=5
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+东南卫视,http://8.138.7.223/tv/fjtv.php?id=5
 东南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=东南卫视
 广西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=广西卫视
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 贵州卫视,http://qwt.zhibotv.top:2016/全网通.php?id=贵州卫视
+贵州卫视,http://121.17.146.178:50003/hls/51/index.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 海南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=海南卫视
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
@@ -82,7 +86,6 @@ CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 辽宁卫视,http://qwt.zhibotv.top:2016/全网通.php?id=辽宁卫视
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
-内蒙古卫视,http://61.138.128.226:19901/tsfile/live/0109_1.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 青海卫视,http://qwt.zhibotv.top:2016/全网通.php?id=青海卫视
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
@@ -100,6 +103,7 @@ CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+广东卫视,http://61.138.128.226:19901/tsfile/live/0125_1.m3u8
 
 特色频道,#genre#
 兵器科技,rtsp://115.153.245.70/PLTV/88888888/224/3221227004/86132185.smil
@@ -108,8 +112,8 @@ CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 
 电影综合,#genre#
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8?key=txiptv
 CHC高清电影,http://218.15.183.23:9901/tsfile/live/23044_1.m3u8
-CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
 
 特区频道,#genre#
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
