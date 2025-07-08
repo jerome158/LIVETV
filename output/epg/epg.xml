@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250708061238 +0800">
+<tv date="20250708101728 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6051,6 +6051,18 @@
 	<programme channel="超级电影" start="20250708105900 +0800" stop="20250708124900 +0800">
 		<title lang="zh">地道战</title>
 	</programme>
+	<programme channel="超级电影" start="20250708124900 +0800" stop="20250708125700 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
+	<programme channel="超级电影" start="20250708125700 +0800" stop="20250708135800 +0800">
+		<title lang="zh">电影《一路囧途》</title>
+	</programme>
+	<programme channel="超级电影" start="20250708135800 +0800" stop="20250708153900 +0800">
+		<title lang="zh">电影《苏菲与朝阳》</title>
+	</programme>
+	<programme channel="超级电影" start="20250708153900 +0800" stop="20250708171100 +0800">
+		<title lang="zh">电影《举起手来2：追击阿多丸号》</title>
+	</programme>
 	<channel id="辽宁卫视">
 		<display-name lang="zh">辽宁卫视</display-name>
 	</channel>
@@ -7089,6 +7101,12 @@
 	<programme channel="黑莓动画" start="20250708113000 +0800" stop="20250708131100 +0800">
 		<title lang="zh">蜡笔小新：我的搬家物语 仙人掌大袭击</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250708131100 +0800" stop="20250708144600 +0800">
+		<title lang="zh">蜡笔小新：决一胜负！逆袭的机器人爸爸</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250708144600 +0800" stop="20250708160400 +0800">
+		<title lang="zh">哪吒之灵珠重生</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7115,6 +7133,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250708114000 +0800" stop="20250708131400 +0800">
 		<title lang="zh">傻傻爱你，傻傻爱我</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250708131400 +0800" stop="20250708150300 +0800">
+		<title lang="zh">沉默的15分钟</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250708150300 +0800" stop="20250708162100 +0800">
+		<title lang="zh">武神苏乞儿之红莲虫蛊</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
