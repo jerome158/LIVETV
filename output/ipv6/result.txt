@@ -38,12 +38,9 @@ CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 
 卫视频道,#genre#
 湖南卫视,http://123.14.90.37:9003/hls/20/index.m3u8
+北京卫视,http://175.153.94.95:85/tsfile/live/1019_1.m3u8?key=txiptv
 广东卫视,http://42.238.163.100:8851/live1410.m3u8?token=7375646f732f1948ea59473974e650786041231c&z=22c3
-
-特色频道,#genre#
-
-电影综合,#genre#
-CHC家庭影院,http://42.238.163.100:8828/live1189.m3u8?token=7375646f36e78ab6d29fc3119b81444fdb23bcdf&z=22c3
+广东卫视,http://121.32.205.148:5000/mgtv/608831231.m3u8
 
 特区频道,#genre#
 凤凰卫视,http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
@@ -61,4 +58,5 @@ SkyNews,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/2475/index.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w765383554.m3u8
 CBSNews,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master_2.m3u8
 
-游戏动画,#genre#
+测试频道,#genre#
+CHC家庭影院,http://42.238.163.100:8828/live1189.m3u8?token=7375646f36e78ab6d29fc3119b81444fdb23bcdf&z=22c3
