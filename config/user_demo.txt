@@ -141,7 +141,7 @@ CBSNews,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d
 航拍中国第一季
 航拍中国第二季
 美丽中国说
-黑莓电影
+黑莓电影,http://39.134.65.106/PLTV/88888888/224/3221225681/1.m3u8$!
 纬来电影
 龙华电影
 CHC家庭影院,http://42.238.163.100:8828/live1189.m3u8?token=7375646f36e78ab6d29fc3119b81444fdb23bcdf&z=22c3$!
