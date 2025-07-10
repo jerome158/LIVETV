@@ -128,6 +128,7 @@ CBSNews,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d
 纪录片1,http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8$!
 纪录片2,http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8$!
 纪录片3,http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8$!
+求索记录,http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8$!
 金鹰纪实
 动物星球
 自然传奇
@@ -146,7 +147,7 @@ CBSNews,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d
 CHC家庭影院,http://42.238.163.100:8828/live1189.m3u8?token=7375646f36e78ab6d29fc3119b81444fdb23bcdf&z=22c3$!
 CHC动作电影
 CHC高清电影
-超级电影
+超级电影,http://39.134.65.106/PLTV/88888888/224/3221225644/1.m3u8$!
 金鹰卡通
 卡酷动画
 动漫秀场
