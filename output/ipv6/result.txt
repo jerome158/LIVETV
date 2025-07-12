@@ -116,8 +116,8 @@ CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 云南卫视,http://39.134.65.106/PLTV/88888888/224/3221225957/1.m3u8
 
 特区频道,#genre#
+凤凰卫视,http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 凤凰卫视,http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
-凤凰卫视,http://ycsj.aguihome.com:4022/udp/233.50.200.191:5140
 莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 新加坡中文,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_0/chunklist.m3u8
@@ -128,20 +128,34 @@ SkyNews,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/2475/index.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w765383554.m3u8
 CBSNews,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master_2.m3u8
 
-测试频道,#genre#
+记录频道,#genre#
 纪录片1,http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
 纪录片2,http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
 纪录片3,http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
 求索记录,http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
 精品记录,http://39.134.65.106/PLTV/88888888/224/3221225545/1.m3u8
+清晨音乐台,http://live.xmcdn.com:80/live/1011/64.m3u8
+纪实人文,http://111.29.9.38:6610/000000001000/1000000001000016545/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=3
+纪实人文,http://111.29.9.46:6610/000000001000/5000000004000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
+纯享4K UHD,http://111.29.9.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+纯享4K UHD,http://111.29.9.44:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 军事评论,http://39.135.133.155:80/PLTV/88888888/224/3221225535/1.m3u8
 军事评论,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+
+电视剧场,#genre#
 爱情喜剧,http://39.134.65.106/PLTV/88888888/224/3221225533/1.m3u8
 精品大剧,http://39.134.65.106/PLTV/88888888/224/3221225536/1.m3u8
 家庭剧场,http://39.134.65.106/PLTV/88888888/224/3221225538/1.m3u8
 军旅剧场,http://39.134.65.106/PLTV/88888888/224/3221225560/1.m3u8
 超级电视剧,http://39.134.65.106/PLTV/88888888/224/3221225637/1.m3u8
 欢乐剧场,http://39.134.65.106/PLTV/88888888/224/3221225682/1.m3u8
+古装剧场,http://39.135.133.155:80/PLTV/88888888/224/3221225524/1.m3u8
+古装剧场,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+东北热剧,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+惊悚悬疑,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+惊悚悬疑,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+
+电影频道,#genre#
 明星大片,http://39.135.133.157:80/PLTV/88888888/224/3221225682/1.m3u8
 明星大片,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 黑莓电影,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
@@ -150,6 +164,8 @@ CBSNews,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d
 动作电影,http://39.135.133.167:80/PLTV/88888888/224/3221225555/1.m3u8
 超级电影,http://39.134.65.106/PLTV/88888888/224/3221225644/1.m3u8
 CHC家庭影院,http://42.238.163.100:8828/live1189.m3u8?token=7375646f36e78ab6d29fc3119b81444fdb23bcdf&z=22c3
+
+综艺卡通,#genre#
 金牌综艺,http://39.134.65.73:80/PLTV/88888888/224/3221225525/1.m3u8
 超级综艺,http://39.134.65.106/PLTV/88888888/224/3221225642/1.m3u8
 黑莓动画,http://39.135.133.167:80/TVOD/88888888/224/3221225529/main.m3u8

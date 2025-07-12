@@ -226,9 +226,9 @@ http://39.134.65.106/PLTV/88888888/224/3221225999/1.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://39.134.65.106/PLTV/88888888/224/3221225957/1.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视.png" group-title="特区频道",凤凰卫视
-http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
+http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视.png" group-title="特区频道",凤凰卫视
-http://ycsj.aguihome.com:4022/udp/233.50.200.191:5140
+http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
 #EXTINF:-1 tvg-name="莲花卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/莲花卫视.png" group-title="特区频道",莲花卫视
 http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 #EXTINF:-1 tvg-name="新加坡中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新加坡中文.png" group-title="特区频道",新加坡中文
@@ -247,65 +247,85 @@ http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/2475/index.m3u8
 http://lb.streaming.sk/fashiontv/stream/chunklist_w765383554.m3u8
 #EXTINF:-1 tvg-name="CBSNews" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CBSNews.png" group-title="特区频道",CBSNews
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master_2.m3u8
-#EXTINF:-1 tvg-name="纪录片1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪录片1.png" group-title="测试频道",纪录片1
+#EXTINF:-1 tvg-name="纪录片1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪录片1.png" group-title="记录频道",纪录片1
 http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
-#EXTINF:-1 tvg-name="纪录片2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪录片2.png" group-title="测试频道",纪录片2
+#EXTINF:-1 tvg-name="纪录片2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪录片2.png" group-title="记录频道",纪录片2
 http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
-#EXTINF:-1 tvg-name="纪录片3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪录片3.png" group-title="测试频道",纪录片3
+#EXTINF:-1 tvg-name="纪录片3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪录片3.png" group-title="记录频道",纪录片3
 http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
-#EXTINF:-1 tvg-name="求索记录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/求索记录.png" group-title="测试频道",求索记录
+#EXTINF:-1 tvg-name="求索记录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/求索记录.png" group-title="记录频道",求索记录
 http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
-#EXTINF:-1 tvg-name="精品记录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品记录.png" group-title="测试频道",精品记录
+#EXTINF:-1 tvg-name="精品记录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品记录.png" group-title="记录频道",精品记录
 http://39.134.65.106/PLTV/88888888/224/3221225545/1.m3u8
-#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/军事评论.png" group-title="测试频道",军事评论
+#EXTINF:-1 tvg-name="清晨音乐台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/清晨音乐台.png" group-title="记录频道",清晨音乐台
+http://live.xmcdn.com:80/live/1011/64.m3u8
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪实人文.png" group-title="记录频道",纪实人文
+http://111.29.9.38:6610/000000001000/1000000001000016545/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪实人文.png" group-title="记录频道",纪实人文
+http://111.29.9.46:6610/000000001000/5000000004000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="纯享4K UHD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纯享4K UHD.png" group-title="记录频道",纯享4K UHD
+http://111.29.9.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="纯享4K UHD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纯享4K UHD.png" group-title="记录频道",纯享4K UHD
+http://111.29.9.44:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/军事评论.png" group-title="记录频道",军事评论
 http://39.135.133.155:80/PLTV/88888888/224/3221225535/1.m3u8
-#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/军事评论.png" group-title="测试频道",军事评论
+#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/军事评论.png" group-title="记录频道",军事评论
 http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情喜剧.png" group-title="测试频道",爱情喜剧
+#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情喜剧.png" group-title="电视剧场",爱情喜剧
 http://39.134.65.106/PLTV/88888888/224/3221225533/1.m3u8
-#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品大剧.png" group-title="测试频道",精品大剧
+#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品大剧.png" group-title="电视剧场",精品大剧
 http://39.134.65.106/PLTV/88888888/224/3221225536/1.m3u8
-#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/家庭剧场.png" group-title="测试频道",家庭剧场
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/家庭剧场.png" group-title="电视剧场",家庭剧场
 http://39.134.65.106/PLTV/88888888/224/3221225538/1.m3u8
-#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/军旅剧场.png" group-title="测试频道",军旅剧场
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/军旅剧场.png" group-title="电视剧场",军旅剧场
 http://39.134.65.106/PLTV/88888888/224/3221225560/1.m3u8
-#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/超级电视剧.png" group-title="测试频道",超级电视剧
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/超级电视剧.png" group-title="电视剧场",超级电视剧
 http://39.134.65.106/PLTV/88888888/224/3221225637/1.m3u8
-#EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/欢乐剧场.png" group-title="测试频道",欢乐剧场
+#EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/欢乐剧场.png" group-title="电视剧场",欢乐剧场
 http://39.134.65.106/PLTV/88888888/224/3221225682/1.m3u8
-#EXTINF:-1 tvg-name="明星大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明星大片.png" group-title="测试频道",明星大片
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/古装剧场.png" group-title="电视剧场",古装剧场
+http://39.135.133.155:80/PLTV/88888888/224/3221225524/1.m3u8
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/古装剧场.png" group-title="电视剧场",古装剧场
+http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 tvg-name="东北热剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东北热剧.png" group-title="电视剧场",东北热剧
+http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/惊悚悬疑.png" group-title="电视剧场",惊悚悬疑
+http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/惊悚悬疑.png" group-title="电视剧场",惊悚悬疑
+http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-name="明星大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明星大片.png" group-title="电影频道",明星大片
 http://39.135.133.157:80/PLTV/88888888/224/3221225682/1.m3u8
-#EXTINF:-1 tvg-name="明星大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明星大片.png" group-title="测试频道",明星大片
+#EXTINF:-1 tvg-name="明星大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/明星大片.png" group-title="电影频道",明星大片
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓电影.png" group-title="测试频道",黑莓电影
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓电影.png" group-title="电影频道",黑莓电影
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓电影.png" group-title="测试频道",黑莓电影
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓电影.png" group-title="电影频道",黑莓电影
 http://39.134.65.106/PLTV/88888888/224/3221225681/1.m3u8
-#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作电影.png" group-title="测试频道",动作电影
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作电影.png" group-title="电影频道",动作电影
 http://39.134.65.106/PLTV/88888888/224/3221225555/1.m3u8
-#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作电影.png" group-title="测试频道",动作电影
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作电影.png" group-title="电影频道",动作电影
 http://39.135.133.167:80/PLTV/88888888/224/3221225555/1.m3u8
-#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/超级电影.png" group-title="测试频道",超级电影
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/超级电影.png" group-title="电影频道",超级电影
 http://39.134.65.106/PLTV/88888888/224/3221225644/1.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="测试频道",CHC家庭影院
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
 http://42.238.163.100:8828/live1189.m3u8?token=7375646f36e78ab6d29fc3119b81444fdb23bcdf&z=22c3
-#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金牌综艺.png" group-title="测试频道",金牌综艺
+#EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金牌综艺.png" group-title="综艺卡通",金牌综艺
 http://39.134.65.73:80/PLTV/88888888/224/3221225525/1.m3u8
-#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/超级综艺.png" group-title="测试频道",超级综艺
+#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/超级综艺.png" group-title="综艺卡通",超级综艺
 http://39.134.65.106/PLTV/88888888/224/3221225642/1.m3u8
-#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="测试频道",黑莓动画
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="综艺卡通",黑莓动画
 http://39.135.133.167:80/TVOD/88888888/224/3221225529/main.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="测试频道",金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="综艺卡通",金鹰卡通
 http://39.134.65.106/PLTV/88888888/224/3221225561/1.m3u8
-#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷动画.png" group-title="测试频道",卡酷动画
+#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷动画.png" group-title="综艺卡通",卡酷动画
 http://39.134.65.106/PLTV/88888888/224/3221225562/1.m3u8
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="测试频道",优漫卡通
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="综艺卡通",优漫卡通
 http://39.134.65.106/PLTV/88888888/224/3221225534/1.m3u8
-#EXTINF:-1 tvg-name="音乐台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐台.png" group-title="测试频道",音乐台
+#EXTINF:-1 tvg-name="音乐台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐台.png" group-title="综艺卡通",音乐台
 http://live.xmcdn.com:80/live/1427/64.m3u8
-#EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/炫舞未来.png" group-title="测试频道",炫舞未来
+#EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/炫舞未来.png" group-title="综艺卡通",炫舞未来
 http://39.135.133.157:80/PLTV/88888888/224/3221225646/1.m3u8
-#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品体育.png" group-title="测试频道",精品体育
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品体育.png" group-title="综艺卡通",精品体育
 http://39.135.133.154:80/PLTV/88888888/224/3221225526/1.m3u8
 #EXTINF:-1 tvg-name="新疆天山" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆天山.png" group-title="直播中国",新疆天山
 http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
