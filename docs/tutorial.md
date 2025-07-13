@@ -119,6 +119,16 @@ IPTV-API是一个可高度自定义的IPTV接口更新项目📺，自定义频�
   ![本地源](./images/local.png '本地源')
 
 
+- EPG源（`config/epg.txt`）
+
+  频道预告信息数据来源，程序将依次获取文件中订阅地址的频道预告数据，进行汇总输出
+
+
+- 频道别名（`config/alias.txt`）
+
+  频道名称的别名名单，用于获取接口时将多种名称映射为一个名称的结果，可以提升获取量与准确率，格式：模板频道名称,别名1,别名2,别名3
+
+
 - 黑名单（`config/blacklist.txt`）
 
   符合黑名单关键字的接口将会被过滤，不会被收集，比如含广告等低质量接口
@@ -255,7 +265,7 @@ pipenv run service
 
 ## GUI 软件
 
-1. 下载[IPTV-API 更新软件](https://github.com/Guovin/iptv-api/releases)，打开软件，点击更新，即可完成更新
+1. 下载[IPTV-API 更新软件](https://github.com/Guovin/iptv-api/releases)，打开软件，点击启动，即可进行更新
 
 2. 或者在项目目录下运行以下命令，即可打开 GUI 软件：
 
@@ -303,11 +313,10 @@ docker run -d -p 8000:8000 guovern/iptv-api
 
 #### 环境变量：
 
-| 变量          | 描述       | 默认值                |
-|:------------|:---------|:-------------------|
-| APP_HOST    | 服务host地址 | "http://localhost" |
-| APP_PORT    | 服务端口     | 8000               |
-| UPDATE_CRON | 定时任务执行时间 | "0 22,10 * * *"    |
+| 变量       | 描述       | 默认值                |
+|:---------|:---------|:-------------------|
+| APP_HOST | 服务host地址 | "http://localhost" |
+| APP_PORT | 服务端口     | 8000               |
 
 ### 3. 更新结果
 

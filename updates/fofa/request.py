@@ -90,7 +90,7 @@ async def get_channels_by_fofa(urls=None, multicast=False, callback=None):
         open_driver = config.open_driver
         if open_driver:
             from utils.driver.setup import setup_driver
-        open_sort = config.open_sort
+        open_speed_test = config.open_speed_test
         cancel_event = threading.Event()
         hotel_name = constants.origin_map["hotel"]
 
@@ -132,7 +132,7 @@ async def get_channels_by_fofa(urls=None, multicast=False, callback=None):
                                 process_fofa_json_url,
                                 url,
                                 fofa_info[1],
-                                open_sort,
+                                open_speed_test,
                                 hotel_name,
                             )
                             for url in urls
@@ -185,7 +185,7 @@ async def get_channels_by_fofa(urls=None, multicast=False, callback=None):
     return fofa_results
 
 
-def process_fofa_json_url(url, region, open_sort, hotel_name="酒店源"):
+def process_fofa_json_url(url, region, open_speed_test, hotel_name="酒店源"):
     """
     Process the FOFA json url
     """

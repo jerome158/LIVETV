@@ -4,12 +4,11 @@ import logging
 import os
 import re
 import shutil
-import socket
 import sys
-import urllib.parse
 from collections import defaultdict
 from logging.handlers import RotatingFileHandler
 from time import time
+from urllib.parse import urlparse, urlunparse
 
 import pytz
 import requests
@@ -241,26 +240,12 @@ def get_total_urls_from_sorted_data(data):
     return list(dict.fromkeys(total_urls))[: config.urls_limit]
 
 
-def check_url_ipv6(url):
-    """
-    Check if the url is ipv6
-    """
-    try:
-        host = urllib.parse.urlparse(url).hostname
-        if host:
-            addr_info = socket.getaddrinfo(host, None, socket.AF_UNSPEC, socket.SOCK_STREAM)
-            for info in addr_info:
-                if info[0] == socket.AF_INET6:
-                    return True
-        return False
-    except:
-        return False
-
-
 def check_ipv6_support():
     """
     Check if the system network supports ipv6
     """
+    if os.getenv("GITHUB_ACTIONS"):
+        return False
     url = "https://ipv6.tokyo.test-ipv6.com/ip/?callback=?&testdomain=test-ipv6.com&testname=test_aaaa"
     try:
         print("Checking if your network supports IPv6...")
@@ -270,7 +255,7 @@ def check_ipv6_support():
             return True
     except Exception:
         pass
-    print("Your network does not support IPv6, don't worry, these results will be saved")
+    print("Your network does not support IPv6, don't worry, the IPv6 results will be saved")
     return False
 
 
@@ -296,9 +281,13 @@ def check_url_by_keywords(url, keywords=None):
         return any(keyword in url for keyword in keywords)
 
 
-def merge_objects(*objects):
+def merge_objects(*objects, match_key=None):
     """
     Merge objects
+
+    Args:
+        *objects: Dictionaries to merge
+        match_key: If dict1[key] is a list of dicts, this key will be used to match and merge dicts
     """
 
     def merge_dicts(dict1, dict2):
@@ -308,11 +297,18 @@ def merge_objects(*objects):
                     merge_dicts(dict1[key], value)
                 elif isinstance(dict1[key], set):
                     dict1[key].update(value)
-                elif isinstance(dict1[key], list):
-                    if value:
+                elif isinstance(dict1[key], list) and isinstance(value, list):
+                    if match_key and all(isinstance(x, dict) for x in dict1[key] + value):
+                        existing_items = {item[match_key]: item for item in dict1[key]}
+                        for new_item in value:
+                            if match_key in new_item and new_item[match_key] in existing_items:
+                                merge_dicts(existing_items[new_item[match_key]], new_item)
+                            else:
+                                dict1[key].append(new_item)
+                    else:
                         dict1[key].extend(x for x in value if x not in dict1[key])
-                elif value:
-                    dict1[key] = {dict1[key], value}
+                elif value != dict1[key]:
+                    dict1[key] = value
             else:
                 dict1[key] = value
 
@@ -375,16 +371,24 @@ def convert_to_m3u(path=None, first_channel_name=None, data=None):
                         m3u_output += f'#EXTINF:-1 tvg-name="{processed_channel_name}" tvg-logo="{join_url(config.cdn_url, f'https://raw.githubusercontent.com/fanmingming/live/main/tv/{processed_channel_name}.png')}"'
                         if current_group:
                             m3u_output += f' group-title="{current_group}"'
-                        m3u_output += f",{original_channel_name}\n"
-                        if data and config.open_headers:
+                        item_data = {}
+                        if data:
                             item_list = data.get(original_channel_name, [])
                             for item in item_list:
                                 if item["url"] == channel_link:
-                                    headers = item.get("headers")
-                                    if headers:
-                                        for key, value in headers.items():
-                                            m3u_output += f"#EXTVLCOPT:http-{key.lower()}={value}\n"
+                                    item_data = item
                                     break
+                        if item_data:
+                            catchup = item_data.get("catchup")
+                            if catchup:
+                                for key, value in catchup.items():
+                                    m3u_output += f' {key}="{value}"'
+                        m3u_output += f",{original_channel_name}\n"
+                        if item_data and config.open_headers:
+                            headers = item_data.get("headers")
+                            if headers:
+                                for key, value in headers.items():
+                                    m3u_output += f"#EXTVLCOPT:http-{key.lower()}={value}\n"
                         m3u_output += f"{channel_link}\n"
             m3u_file_path = os.path.splitext(path)[0] + ".m3u"
             with open(m3u_file_path, "w", encoding="utf-8") as m3u_file:
@@ -416,32 +420,32 @@ def get_result_file_content(path=None, show_content=False, file_type=None):
     return response
 
 
-def remove_duplicates_from_list(data_list, seen):
+def remove_duplicates_from_list(data_list, seen, filter_host=False, ipv6_support=True):
     """
     Remove duplicates from data list
     """
     unique_list = []
     for item in data_list:
-        part = item["host"]
-        origin = item["origin"]
-        if origin in ["whitelist", "live", "hls"]:
+        if item["origin"] in ["whitelist", "live", "hls"]:
             continue
-        seen_num = seen.get(part, 0)
-        if (seen_num < config.sort_duplicate_limit) or (seen_num == 0 and config.sort_duplicate_limit == 0):
-            seen[part] = seen_num + 1
+        if not ipv6_support and item["ipv_type"] == "ipv6":
+            continue
+        part = item["host"] if filter_host else item["url"]
+        if part not in seen:
+            seen.add(part)
             unique_list.append(item)
     return unique_list
 
 
-def process_nested_dict(data, seen):
+def process_nested_dict(data, seen, filter_host=False, ipv6_support=True):
     """
     Process nested dict
     """
     for key, value in data.items():
         if isinstance(value, dict):
-            process_nested_dict(value, seen)
+            process_nested_dict(value, seen, filter_host, ipv6_support)
         elif isinstance(value, list):
-            data[key] = remove_duplicates_from_list(value, seen)
+            data[key] = remove_duplicates_from_list(value, seen, filter_host, ipv6_support)
 
 
 def get_url_host(url):
@@ -534,7 +538,7 @@ def get_headers_key_value(content: str) -> dict:
     """
     key_value = {}
     for match in constants.key_value_pattern.finditer(content):
-        key = match.group("key").strip().replace("http-", "").lower()
+        key = match.group("key").strip().replace("http-", "").replace("-", "").lower()
         if "refer" in key:
             key = "referer"
         value = match.group("value").replace('"', "").strip()
@@ -566,11 +570,17 @@ def get_name_url(content, pattern, open_headers=False, check_url=True):
             "Referer": attributes.get("referer", ""),
             "Origin": attributes.get("origin", "")
         }
+        catchup = {
+            "catchup": attributes.get("catchup", ""),
+            "catchup-source": attributes.get("catchupsource", ""),
+        }
         headers = {k: v for k, v in headers.items() if v}
+        catchup = {k: v for k, v in catchup.items() if v}
         if not open_headers and headers:
             continue
         if open_headers:
             data["headers"] = headers
+        data["catchup"] = catchup
         result.append(data)
     return result
 
@@ -671,6 +681,35 @@ def join_url(url1: str, url2: str) -> str:
     if not url1.endswith("/"):
         url1 += "/"
     return url1 + url2
+
+
+def add_port_to_url(url: str, port: int) -> str:
+    """
+    Add port to the url
+    """
+    parsed = urlparse(url)
+    netloc = parsed.netloc
+    if parsed.username and parsed.password:
+        netloc = f"{parsed.username}:{parsed.password}@{netloc}"
+    if port:
+        netloc = f"{netloc}:{port}"
+    new_url = urlunparse((
+        parsed.scheme,
+        netloc,
+        parsed.path,
+        parsed.params,
+        parsed.query,
+        parsed.fragment
+    ))
+    return new_url
+
+
+def get_url_without_scheme(url: str) -> str:
+    """
+    Get the url without scheme
+    """
+    parsed = urlparse(url)
+    return parsed.netloc + parsed.path
 
 
 def find_by_id(data: dict, id: int) -> dict:
