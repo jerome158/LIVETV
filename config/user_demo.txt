@@ -178,5 +178,4 @@ CHC家庭影院,http://42.238.163.100:8828/live1189.m3u8?token=7375646f36e78ab6d
 
 直播中国,#genre#
 新疆天山,http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8$!
-泰山主峰,https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8$!
 黄花城水长城02,http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8$!
