@@ -98,7 +98,7 @@ http://39.134.65.106/PLTV/88888888/224/3221225927/1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://39.135.133.167:80/TVOD/88888888/224/3221225942/main.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+http://111.29.9.38:6610/000000001000/1000000001000016545/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://39.134.65.106/PLTV/88888888/224/3221225665/1.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
@@ -257,10 +257,6 @@ http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
 #EXTINF:-1 tvg-name="精品记录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品记录.png" group-title="记录频道",精品记录
 http://39.134.65.106/PLTV/88888888/224/3221225545/1.m3u8
-#EXTINF:-1 tvg-name="清晨音乐台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/清晨音乐台.png" group-title="记录频道",清晨音乐台
-http://live.xmcdn.com:80/live/1011/64.m3u8
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪实人文.png" group-title="记录频道",纪实人文
-http://111.29.9.38:6610/000000001000/1000000001000016545/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪实人文.png" group-title="记录频道",纪实人文
 http://111.29.9.46:6610/000000001000/5000000004000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="纯享4K UHD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纯享4K UHD.png" group-title="记录频道",纯享4K UHD
@@ -321,15 +317,11 @@ http://39.134.65.106/PLTV/88888888/224/3221225561/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225562/1.m3u8
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="综艺卡通",优漫卡通
 http://39.134.65.106/PLTV/88888888/224/3221225534/1.m3u8
-#EXTINF:-1 tvg-name="音乐台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐台.png" group-title="综艺卡通",音乐台
-http://live.xmcdn.com:80/live/1427/64.m3u8
 #EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/炫舞未来.png" group-title="综艺卡通",炫舞未来
 http://39.135.133.157:80/PLTV/88888888/224/3221225646/1.m3u8
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品体育.png" group-title="综艺卡通",精品体育
 http://39.135.133.154:80/PLTV/88888888/224/3221225526/1.m3u8
 #EXTINF:-1 tvg-name="新疆天山" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆天山.png" group-title="直播中国",新疆天山
 http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
-#EXTINF:-1 tvg-name="泰山主峰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/泰山主峰.png" group-title="直播中国",泰山主峰
-https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
 #EXTINF:-1 tvg-name="黄花城水长城02" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黄花城水长城02.png" group-title="直播中国",黄花城水长城02
 http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
