@@ -247,11 +247,11 @@ http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/2475/index.m3u8
 http://lb.streaming.sk/fashiontv/stream/chunklist_w765383554.m3u8
 #EXTINF:-1 tvg-name="CBSNews" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CBSNews.png" group-title="特区频道",CBSNews
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master_2.m3u8
-#EXTINF:-1 tvg-name="纪录片1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪录片1.png" group-title="记录频道",纪录片1
+#EXTINF:-1 tvg-name="求索自然" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/求索自然.png" group-title="记录频道",求索自然
 http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
-#EXTINF:-1 tvg-name="纪录片2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪录片2.png" group-title="记录频道",纪录片2
+#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/求索动物.png" group-title="记录频道",求索动物
 http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
-#EXTINF:-1 tvg-name="纪录片3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪录片3.png" group-title="记录频道",纪录片3
+#EXTINF:-1 tvg-name="求索科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/求索科技.png" group-title="记录频道",求索科技
 http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
 #EXTINF:-1 tvg-name="求索记录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/求索记录.png" group-title="记录频道",求索记录
 http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
