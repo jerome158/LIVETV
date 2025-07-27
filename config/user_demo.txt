@@ -90,25 +90,20 @@ CBSNews,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d
 军事评论,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$!
 
 电视剧场,#genre#
-NewTV精品大剧,http://39.134.65.106/PLTV/88888888/224/3221225536/1.m3u8$!
-NewTV剧集,http://39.134.65.106/PLTV/88888888/224/3221225538/1.m3u8$!
-NewTV超级电视剧,http://39.134.65.106/PLTV/88888888/224/3221225637/1.m3u8$!
-NewTV家庭剧场,http://39.134.65.106/PLTV/88888888/224/3221225682/1.m3u8$!
+精品大剧 
 爱情喜剧,http://39.134.65.76:80/wh7f454c46tw972760835_1057010575/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8$!
 军旅剧场
 古装剧场,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$!
 东北热剧,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$!
 惊悚悬疑,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$!
 惊悚悬疑,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$!
-
+NewTV家庭剧场
 
 电影频道,#genre#
 明星大片,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$!
 黑莓电影,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$!
-黑莓电影,http://39.134.65.106/PLTV/88888888/224/3221225681/1.m3u8$!
-动作电影,http://39.134.65.106/PLTV/88888888/224/3221225555/1.m3u8$!
-NewTV超级电影,http://39.134.65.106/PLTV/88888888/224/3221225644/1.m3u8$!
-CHC家庭影院,http://42.238.163.100:8828/live1189.m3u8?token=7375646f36e78ab6d29fc3119b81444fdb23bcdf&z=22c3$!
+动作电影
+超级电影
 动作电影,http://39.135.133.167:80/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$!
 
 综艺卡通,#genre#
