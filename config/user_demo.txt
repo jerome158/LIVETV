@@ -90,30 +90,30 @@ CBSNews,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d
 军事评论,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8$!
 
 电视剧场,#genre#
-精品大剧 
+精品大剧,http://111.29.9.44:6610/000000001000/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=3$!
 爱情喜剧,http://39.134.65.76:80/wh7f454c46tw972760835_1057010575/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8$!
 军旅剧场
 古装剧场,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8$!
 东北热剧,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$!
 惊悚悬疑,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$!
 惊悚悬疑,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$!
-NewTV家庭剧场
+NewTV家庭剧场,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$!
 
 电影频道,#genre#
 明星大片,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$!
 黑莓电影,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$!
-动作电影
-超级电影
+动作电影,http://111.29.9.40:6610/000000001000/1000000001000012884/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=3$!
+超级电影,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$!
 动作电影,http://39.135.133.167:80/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$!
 
 综艺卡通,#genre#
-金牌综艺
-超级综艺
-黑莓动画
+金牌综艺,http://39.135.133.157:80/PLTV/88888888/224/3221225642/1.m3u8$!
+超级综艺,http://39.135.133.174:80/PLTV/88888888/224/3221225550/1.m3u8$!
+黑莓动画,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$!
 金鹰卡通
 卡酷动画
 优漫卡通
-炫舞未来
+炫舞未来,http://111.29.9.39:6610/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3$!
 精品体育
 
 直播中国,#genre#
