@@ -37,7 +37,6 @@ CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8$!
 湖南卫视,http://39.134.65.3:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8$!
 江苏卫视,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8$!
 浙江卫视,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$!
-安多卫视
 安徽卫视,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8$!
 兵团卫视
 东南卫视,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/1.m3u8$!
@@ -58,7 +57,7 @@ CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8$!
 青海卫视
 山东卫视,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8$!
 山西卫视
-陕西卫视
+陕西卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221225755/iptv101726.smil$!
 深圳卫视,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8$!
 四川卫视,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$!
 西藏卫视
