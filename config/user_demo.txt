@@ -101,13 +101,13 @@ NewTV家庭剧场,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/888888
 电影频道,#genre#
 明星大片,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8$!
 黑莓电影,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$!
-动作电影,http://111.29.9.40:6610/000000001000/1000000001000012884/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=3$!
+动作电影,http://39.135.133.167:80/PLTV/88888888/224/3221225555/1.m3u8$!
 超级电影,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8$!
 动作电影,http://39.135.133.167:80/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$!
 
 综艺卡通,#genre#
 金牌综艺,http://39.135.133.157:80/PLTV/88888888/224/3221225642/1.m3u8$!
-超级综艺,http://39.135.133.174:80/PLTV/88888888/224/3221225550/1.m3u8$!
+超级综艺,http://39.134.65.73:80/PLTV/88888888/224/3221225550/1.m3u8$!
 黑莓动画,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$!
 金鹰卡通
 卡酷动画
