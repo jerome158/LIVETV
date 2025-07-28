@@ -38,8 +38,9 @@ CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 江苏卫视,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 浙江卫视,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 安徽卫视,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+兵团卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221225753/iptv101723.smil
 东南卫视,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/1.m3u8
-甘肃卫视,http://111.29.9.37:6610/000000001000/1000000002000017827/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT
+甘肃卫视,http://115.153.254.81/PLTV/88888888/224/3221227039/87447727.smil/index.m3u8?fmt=ts2hls
 广西卫视,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 贵州卫视,http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/1.m3u8
 海南卫视,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
@@ -49,15 +50,26 @@ CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 湖北卫视,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
 吉林卫视,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226397/index.m3u8
 江西卫视,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/1.m3u8
-康巴卫视,http://39.135.133.174:80/wh7f454c46tw2805843568_1293760037/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
+康巴卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226263/index.m3u8
 辽宁卫视,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+内蒙古卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221225591/iptv7986.smil
+宁夏卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221225747/iptv101619.smil
+青海卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221225589/iptv7985.smil
 山东卫视,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8
+山西卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221225551/iptv7966.smil
+陕西卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221225755/iptv101726.smil
 深圳卫视,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 四川卫视,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+西藏卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221225570/iptv101725.smil
+新疆卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221225550/iptv61197.smil
+云南卫视,rtsp://115.153.254.81/PLTV/88888888/224/3221226937/72640386.smil
 
 特区频道,#genre#
 凤凰卫视,http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 凤凰卫视,http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
+凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+凤凰中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+凤凰资讯,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
 莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 新加坡中文,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_0/chunklist.m3u8
@@ -69,13 +81,11 @@ FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w765383554.m3u8
 CBSNews,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master_2.m3u8
 
 记录频道,#genre#
-求索自然,http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
+求索生活,http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8
 求索动物,http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8
-求索科技,http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
+求索科学,http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
 求索记录,http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
 精品记录,http://39.134.65.106/PLTV/88888888/224/3221225545/1.m3u8
-纪实人文,http://111.29.9.46:6610/000000001000/5000000004000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
-纯享4K UHD,http://111.29.9.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 军事评论,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 
 电视剧场,#genre#
@@ -86,17 +96,18 @@ CBSNews,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d
 东北热剧,http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 惊悚悬疑,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 惊悚悬疑,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-NewTV家庭剧场,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+家庭剧场,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 
 电影频道,#genre#
 明星大片,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 黑莓电影,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-动作电影,http://111.29.9.40:6610/000000001000/1000000001000012884/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012884&livemode=1&stbId=3
+动作电影,http://39.135.133.167:80/PLTV/88888888/224/3221225555/1.m3u8
+动作电影,http://39.135.133.167:80/wh7f454c46tw3123557892_1888684188/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 超级电影,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 
 综艺卡通,#genre#
 金牌综艺,http://39.135.133.157:80/PLTV/88888888/224/3221225642/1.m3u8
-超级综艺,http://39.135.133.174:80/PLTV/88888888/224/3221225550/1.m3u8
+超级综艺,http://39.134.65.73:80/PLTV/88888888/224/3221225550/1.m3u8
 黑莓动画,http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 炫舞未来,http://111.29.9.39:6610/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
 精品体育,http://39.135.133.155:80/PLTV/88888888/224/3221225526/1.m3u8
