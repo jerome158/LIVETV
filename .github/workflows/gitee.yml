@@ -2,7 +2,7 @@ name: Sync File to Gitee
 
 on:
   schedule:
-    - cron: '0 18,8 * * *'  # 每天UTC时间00:00运行（北京时间08:00）
+    - cron: '0 1 * * *'  # 每天UTC时间00:00运行（北京时间08:00）
   workflow_dispatch:  # 允许手动触发
 
 jobs:
