@@ -7,8 +7,6 @@ CCTV-2,http://39.134.65.175/PLTV/88888888/224/3221225599/1.m3u8
 CCTV-2,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225923/index.m3u8
 CCTV-3,http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
 CCTV-3,http://39.134.65.175/PLTV/88888888/224/3221225799/1.m3u8
-CCTV-3,http://drive.mxmy.net:8888/udp/239.3.1.172:8001
-CCTV-3,http://123.130.84.106:8154/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
 CCTV-4,http://39.134.65.175/PLTV/88888888/224/3221225797/1.m3u8
 CCTV-4,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225802/index.m3u8
@@ -23,13 +21,11 @@ CCTV-6,http://39.134.65.175/PLTV/88888888/224/3221225814/1.m3u8
 CCTV-7,http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
 CCTV-7,http://39.134.65.175/PLTV/88888888/224/3221225671/1.m3u8
 CCTV-7,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225805/index.m3u8
-CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
+CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 CCTV-8,http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
 CCTV-8,http://39.134.65.175/PLTV/88888888/224/3221225795/1.m3u8
-CCTV-8,http://61.136.172.236:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://3501776.xyz:35455/gaoma/cctv8.m3u8
 CCTV-9,http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
 CCTV-9,http://39.134.65.175/PLTV/88888888/224/3221225676/1.m3u8
 CCTV-9,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225820/index.m3u8
@@ -54,8 +50,8 @@ CCTV-15,http://39.134.65.175/PLTV/88888888/224/3221225513/1.m3u8
 CCTV-15,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225818/index.m3u8
 CCTV-16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
 CCTV-16,http://39.134.65.173/PLTV/88888888/224/3221225893/1.m3u8
-CCTV-16,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227162/index.m3u8
 CCTV-16,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227125/index.m3u8
+CCTV-16,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227162/index.m3u8
 CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 CCTV-17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
@@ -74,11 +70,12 @@ CCTV-17,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226986/i
 卫视频道,#genre#
 广东卫视,http://121.32.205.148:5000/mgtv/608831231.m3u8
 广东卫视,http://42.238.163.100:8851/live1410.m3u8?token=7375646f732f1948ea59473974e650786041231c&z=22c3
-广东卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227391/index.m3u8
 广东卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225824/index.m3u8
+广东卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227391/index.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 广东卫视,http://drive.mxmy.net:8888/udp/239.3.1.142:8048
 浙江卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225825/index.m3u8
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 湖南卫视,http://123.14.90.37:9003/hls/20/index.m3u8
 湖南卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225827/index.m3u8
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
@@ -99,11 +96,10 @@ CCTV-17,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226986/i
 重庆卫视,http://drive.mxmy.net:8888/udp/239.3.1.122:8160
 东方卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225828/index.m3u8
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
-东方卫视,http://drive.mxmy.net:8888/udp/239.3.1.136:8032
 东方卫视,http://omnix.cn:4000/udp/225.1.8.45:8032
+东方卫视,http://drive.mxmy.net:8888/udp/239.3.1.136:8032
 东南卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225833/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-东南卫视,http://drive.mxmy.net:8888/udp/239.3.1.156:8148
 甘肃卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225845/index.m3u8
 广西卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227250/index.m3u8
 广西卫视,http://nas.hssvm.com:8888/udp/225.1.2.81:5002
@@ -111,14 +107,12 @@ CCTV-17,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226986/i
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
-海南卫视,http://171.15.18.199:8180/TV00000000000000000028@HHZT
-河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
+河北卫视,http://drive.mxmy.net:8888/udp/239.3.1.148:8072
 河北卫视,http://171.15.18.199:8180/TV00000000000000000035@HHZT
 河北卫视,http://php.fjl626.cn/hebei.php?id=hbws
-河北卫视,http://drive.mxmy.net:8888/udp/239.3.1.148:8072
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225842/index.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225851/index.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225847/index.m3u8
@@ -129,8 +123,8 @@ CCTV-17,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226986/i
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 山东卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225843/index.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052
+山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 山西卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221225839/index.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 山西卫视,http://171.15.18.199:8180/TV00000000000000000038@HHZT
@@ -147,7 +141,6 @@ CCTV-17,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226986/i
 新疆卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225852/index.m3u8
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
-云南卫视,http://59.39.89.130:60901/tsfile/live/0125_18.m3u8?key=txiptv&playlive=1&authid=0
 
 特区频道,#genre#
 凤凰中文,http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
@@ -160,7 +153,6 @@ CCTV-17,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221226986/i
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1!
-莲花卫视,http://8.138.7.223/tv/lotustv.m3u8
 新加坡中文,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_0/chunklist.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
