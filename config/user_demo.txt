@@ -22,18 +22,6 @@ CCTV-2,http://tvpull.careryun.com/live/84e2198828007870a4e8f5499964888c.m3u8?txS
 CCTV-2,http://111.43.126.240:9003/hls/14/index.m3u8$!
 CCTV-13,http://tvpull.careryun.com/live/78766fb89f154be74a98cb4c5586d46f.m3u8?txSecret=6b712e88b5e2395786a955c16fb46bf8&txTime=68949a75$!
 
-
-央视剧场,#genre#
-第一剧场
-风云剧场
-怀旧剧场
-女性时尚
-高尔夫网球
-风云足球
-电视指南
-世界地理
-兵器科技
-
 卫视频道,#genre#
 广东卫视
 浙江卫视
