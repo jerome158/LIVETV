@@ -13,5 +13,5 @@ https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整�
 # https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 # https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/yd.txt
+# https://raw.githubusercontent.com/vbskycn/iptv/master/tv/yd.txt
 https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv4.txt
