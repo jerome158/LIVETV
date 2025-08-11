@@ -41,3 +41,5 @@ http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
 http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
 #EXTINF:-1 tvg-name="精品记录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/精品记录.png" group-title="测试频道",精品记录
 http://39.134.65.106/PLTV/88888888/224/3221225545/1.m3u8
+#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/军事评论.png" group-title="测试频道",军事评论
+http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8

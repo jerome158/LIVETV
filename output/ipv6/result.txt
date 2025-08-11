@@ -4,8 +4,6 @@ CCTV-2,http://tvpull.careryun.com/live/84e2198828007870a4e8f5499964888c.m3u8?txS
 CCTV-2,http://111.43.126.240:9003/hls/14/index.m3u8
 CCTV-13,http://tvpull.careryun.com/live/78766fb89f154be74a98cb4c5586d46f.m3u8?txSecret=6b712e88b5e2395786a955c16fb46bf8&txTime=68949a75
 
-央视剧场,#genre#
-
 卫视频道,#genre#
 
 特区频道,#genre#
@@ -28,3 +26,4 @@ CBSNews,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d
 求索科学,http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8
 求索记录,http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8
 精品记录,http://39.134.65.106/PLTV/88888888/224/3221225545/1.m3u8
+军事评论,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
