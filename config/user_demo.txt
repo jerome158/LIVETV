@@ -118,6 +118,11 @@ HOY77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv$!
 HOY77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv$!
 
 测试频道,#genre#
+4K超清,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.249:8001$! 
+淘电影,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001$! 
+淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001$! 
+淘娱乐,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001$! 
+淘Baby,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.238:8001$! 
 DJ音乐1,https://vd3.bdstatic.com/mda-nda3jnm5kjr0pzkk/480p/h264_delogo/1649645090089685317/mda-nda3jnm5kjr0pzkk.mp4$!
 DJ音乐1,https://vd4.bdstatic.com/mda-ndc2akp3ve971zsx/480p/h264_delogo/1649813962979142773/mda-ndc2akp3ve971zsx.mp4$!
 DJ音乐1,https://vd3.bdstatic.com/mda-ndd2kbfrvgzzt5zc/480p/h264_delogo/1649901097405881759/mda-ndd2kbfrvgzzt5zc.mp4$!
