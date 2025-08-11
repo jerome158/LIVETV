@@ -92,6 +92,21 @@ CCTV-13,http://tvpull.careryun.com/live/78766fb89f154be74a98cb4c5586d46f.m3u8?tx
 兵团卫视,http://go.bkpcp.top/mg/btws$! 
 黑龙江卫视,http://go.bkpcp.top/mg/hljws$! 
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8$! 
+江西卫视,http://go.bkpcp.top/mg/jxws$!
+东南卫视,http://go.bkpcp.top/mg/dnws$!
+辽宁卫视,http://go.bkpcp.top/mg/lnws$!
+吉林卫视,http://go.bkpcp.top/mg/jlws$!
+海峡卫视,http://go.bkpcp.top/mg/hxws$!
+宁夏卫视,http://go.bkpcp.top/mg/nxws$!
+云南卫视,http://go.bkpcp.top/mg/ynws$!
+重庆卫视,http://go.bkpcp.top/mg/cqws$!
+内蒙古卫视,http://go.bkpcp.top/mg/nmws$!
+甘肃卫视,http://go.bkpcp.top/mg/gsws$!
+青海卫视,http://go.bkpcp.top/mg/qhws$!
+广西卫视,http://go.bkpcp.top/mg/gxws$!
+贵州卫视,http://go.bkpcp.top/mg/gzws$!
+新疆卫视,http://go.bkpcp.top/mg/xjws$!
+西藏卫视,http://go.bkpcp.top/mg/xzws$!
 
 特区频道,#genre#
 凤凰中文,http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83$!
