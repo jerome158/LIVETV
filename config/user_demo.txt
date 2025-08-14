@@ -185,13 +185,13 @@ BBC新闻
 CNN新闻
 HOY78
 TVB
-凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv$!
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv$!
+凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv$!
+凤凰资讯,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$!
 凤凰资讯,http://zhibo.hkstv.tv/livestream/mutfysrq.flv$!
 凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv$!
-凤凰资讯,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$!
-翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv$!
 翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/hyxw01.flv$!
+翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv$!
 翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv$!
 翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge15131132145.flv$!
 翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv$!
@@ -201,8 +201,8 @@ TVB
 无线新闻,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_0/chunklist.m3u8$!
 莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1$!
 新加坡中文,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd$!
-星空卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$!
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8$!
+星空卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$!
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8$!
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8$!
 CNN新闻,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8$!
@@ -219,10 +219,9 @@ TVB,http://push-rtmp-hs-spe-f5.douyincdn.com/live/dsxw01.flv$!
 TVB,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv$!
 TVB,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv$!
 TVB,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv$!
-中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv$!
 中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv$!
+中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv$!
 中天亚洲,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8$!
-
 
 数字频道,#genre#
 熊猫直播,http://dl.zhoujie218.top/migu/migu.php?id=xm1$!
