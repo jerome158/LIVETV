@@ -224,11 +224,9 @@ TVB,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv$!
 中天亚洲,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8$!
 
 数字频道,#genre#
-熊猫直播,http://dl.zhoujie218.top/migu/migu.php?id=xm1$!
-熊猫直播,http://dl.zhoujie218.top/migu/migu.php?id=xm2$!
-熊猫直播,http://dl.zhoujie218.top/migu/migu.php?id=xm3$!
-熊猫直播,http://dl.zhoujie218.top/migu/migu.php?id=xm4$!
-熊猫直播,http://dl.zhoujie218.top/migu/migu.php?id=xm5$!
+熊猫直播,http://dl.zhoujie218.top/migu/migu.php?id=xm6$!
+熊猫直播,http://dl.zhoujie218.top/migu/migu.php?id=xm7$!
+熊猫直播,http://dl.zhoujie218.top/migu/migu.php?id=xm8$!
 纪实频道,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227574/1.m3u8?HlsProfileId=$!
 纪实频道,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227543/1.m3u8?HlsProfileId=$!
 纪实频道,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227569/1.m3u8?HlsProfileId=$!
