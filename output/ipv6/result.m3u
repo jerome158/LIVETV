@@ -390,15 +390,11 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w765383554.m3u8
 #EXTINF:-1 tvg-name="CBS新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CBS新闻.png" group-title="特区频道",CBS新闻
 https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master_2.m3u8
 #EXTINF:-1 tvg-name="熊猫直播" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/熊猫直播.png" group-title="数字频道",熊猫直播
-http://dl.zhoujie218.top/migu/migu.php?id=xm1
+http://dl.zhoujie218.top/migu/migu.php?id=xm6
 #EXTINF:-1 tvg-name="熊猫直播" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/熊猫直播.png" group-title="数字频道",熊猫直播
-http://dl.zhoujie218.top/migu/migu.php?id=xm2
+http://dl.zhoujie218.top/migu/migu.php?id=xm7
 #EXTINF:-1 tvg-name="熊猫直播" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/熊猫直播.png" group-title="数字频道",熊猫直播
-http://dl.zhoujie218.top/migu/migu.php?id=xm3
-#EXTINF:-1 tvg-name="熊猫直播" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/熊猫直播.png" group-title="数字频道",熊猫直播
-http://dl.zhoujie218.top/migu/migu.php?id=xm4
-#EXTINF:-1 tvg-name="熊猫直播" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/熊猫直播.png" group-title="数字频道",熊猫直播
-http://dl.zhoujie218.top/migu/migu.php?id=xm5
+http://dl.zhoujie218.top/migu/migu.php?id=xm8
 #EXTINF:-1 tvg-name="纪实频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪实频道.png" group-title="数字频道",纪实频道
 http://120.196.232.124:8088/000000001001PLTV/651/224/3221227574/1.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="纪实频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪实频道.png" group-title="数字频道",纪实频道
