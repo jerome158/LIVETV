@@ -180,71 +180,29 @@ http://go.bkpcp.top/mg/ynws
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://dl.zhoujie218.top/migu/migu.php?id=ynws
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="特区频道",凤凰中文
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
+https://live.tvfix.org/live/fhzw/1/a128000/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="特区频道",凤凰中文
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="特区频道",凤凰资讯
-https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="特区频道",凤凰资讯
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="特区频道",凤凰资讯
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
-#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="特区频道",星空卫视
-http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
-#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="特区频道",星空卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="特区频道",星空卫视
-http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="特区频道",星空卫视
-http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="特区频道",翡翠台
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/hyxw01.flv
+https://live.tvfix.org/live/jade/2/au1_341/index.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="特区频道",翡翠台
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="特区频道",翡翠台
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge15131132145.flv
-#EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亚洲.png" group-title="特区频道",中天亚洲
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
-#EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亚洲.png" group-title="特区频道",中天亚洲
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
-#EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天亚洲.png" group-title="特区频道",中天亚洲
-http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+https://live.tvfix.org/live/jade/2/s10000_chi/index.m3u8
 #EXTINF:-1 tvg-name="莲花卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/莲花卫视.png" group-title="特区频道",莲花卫视
 http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="特区频道",无线新闻
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="特区频道",无线新闻
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ylxw.flv
+https://live.tvfix.org/live/inews/3/a128000/index.m3u8
 #EXTINF:-1 tvg-name="BBC新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC新闻.png" group-title="特区频道",BBC新闻
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-name="BBC新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC新闻.png" group-title="特区频道",BBC新闻
 http://198.16.100.186:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
-#EXTINF:-1 tvg-name="HOY78" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY78.png" group-title="特区频道",HOY78
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
-#EXTINF:-1 tvg-name="HOY78" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/HOY78.png" group-title="特区频道",HOY78
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
 #EXTINF:-1 tvg-name="TVB" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB.png" group-title="特区频道",TVB
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
+https://live.tvfix.org/live/tvbplus/2/s10000_chi/index.m3u8
 #EXTINF:-1 tvg-name="TVB" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB.png" group-title="特区频道",TVB
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
-#EXTINF:-1 tvg-name="TVB" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB.png" group-title="特区频道",TVB
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/dsxw01.flv
-#EXTINF:-1 tvg-name="TVB" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB.png" group-title="特区频道",TVB
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
+https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 #EXTINF:-1 tvg-name="Sky新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Sky新闻.png" group-title="特区频道",Sky新闻
 http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/2475/index.m3u8
 #EXTINF:-1 tvg-name="时尚TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/时尚TV.png" group-title="特区频道",时尚TV
 http://lb.streaming.sk/fashiontv/stream/chunklist_w765383554.m3u8
-#EXTINF:-1 tvg-name="熊猫直播" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/熊猫直播.png" group-title="数字频道",熊猫直播
-http://dl.zhoujie218.top/migu/migu.php?id=xm6
-#EXTINF:-1 tvg-name="纪实频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/纪实频道.png" group-title="数字频道",纪实频道
-http://120.196.232.124:8088/000000001001PLTV/651/224/3221227574/1.m3u8?HlsProfileId=
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哈哈炫动.png" group-title="数字频道",哈哈炫动
-http://120.196.232.124:8088/000000001001PLTV/651/224/3221227599/1.m3u8?HlsProfileId=
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="数字频道",金鹰卡通
-http://120.196.232.124:8088/000000001001PLTV/651/224/3221227620/1.m3u8?HlsProfileId=
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="数字频道",卡酷少儿
-http://120.196.232.124:8088/000000001001PLTV/651/224/3221227622/1.m3u8?HlsProfileId=
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏新闻.png" group-title="数字频道",江苏新闻
 http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="南京十八" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南京十八.png" group-title="数字频道",南京十八
