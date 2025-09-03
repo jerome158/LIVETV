@@ -93,15 +93,15 @@ CCTV美洲,http://go.bkpcp.top/mg/cctv4m
 云南卫视,http://dl.zhoujie218.top/migu/migu.php?id=ynws
 
 特区频道,#genre#
-凤凰中文,https://live.tvfix.org/live/fhzw/1/a128000/index.m3u8
+凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
 凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
-翡翠台,https://live.tvfix.org/live/jade/2/au1_341/index.m3u8
+翡翠台,https://live.tvfix.org/live/jade/index.m3u8
 翡翠台,https://live.tvfix.org/live/jade/2/s10000_chi/index.m3u8
 莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
-无线新闻,https://live.tvfix.org/live/inews/3/a128000/index.m3u8
+无线新闻,https://live.tvfix.org/live/inews/index.m3u8
 BBC新闻,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 BBC新闻,http://198.16.100.186:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
-TVB,https://live.tvfix.org/live/tvbplus/2/s10000_chi/index.m3u8
+TVB,https://live.tvfix.org/live/tvbplus/index.m3u8
 TVB,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 Sky新闻,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/2475/index.m3u8
 时尚TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w765383554.m3u8
