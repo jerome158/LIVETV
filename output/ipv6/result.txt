@@ -110,9 +110,7 @@ Sky新闻,http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/2475/index.m3u8
 江苏新闻,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8
 南京十八,http://dl.zhoujie218.top/migu/migu.php?id=njsb
-浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 绍兴综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
-余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 上虞综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=48f6c06c32931ed1c2376b21ce91640c&txTime=18d1f31b604
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=ae488fe9d79a8f3de023521ce7ce0766&txTime=18f2ea2cacf
