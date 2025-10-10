@@ -104,13 +104,14 @@ CCTV美洲,http://go.bkpcp.top/mg/cctv4m$!
 西藏卫视,http://go.bkpcp.top/mg/xzws$!
 
 特区频道,#genre#
+BBC新闻
+莲花卫视
 凤凰中文
 翡翠台
-莲花卫视
 无线新闻
-BBC新闻
 CNN新闻
 TVB
+新加坡中文
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8$!
 凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8$!
 翡翠台,https://live.tvfix.org/live/jade/index.m3u8$!
@@ -135,7 +136,6 @@ TVB,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8$!
 无锡新闻,http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=b27ac8431707368778$!
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$!
 绍兴综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed$!
-余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed$!
 上虞综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed$!
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=48f6c06c32931ed1c2376b21ce91640c&txTime=18d1f31b604$!
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=ae488fe9d79a8f3de023521ce7ce0766&txTime=18f2ea2cacf$!
