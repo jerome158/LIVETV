@@ -160,3 +160,7 @@ DJ音乐3,https://vd2.bdstatic.com/mda-nde1zha2ickju5ui/480p/h264_delogo/1649986
 DJ音乐3,https://vd2.bdstatic.com/mda-nde83jtsrx9345ai/480p/h264_delogo/1650001792789333244/mda-nde83jtsrx9345ai.mp4$!
 DJ音乐3,https://vd3.bdstatic.com/mda-ndd9pwn5djrh80tn/480p/h264_delogo/1649919370531344965/mda-ndd9pwn5djrh80tn.mp4$!
 金鹰卡通
+哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
+哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226175/index.m3u8
+卡酷少儿,https://zby.130519.xyz/PLTV/11/224/3221226019/index.m3u8
+嘉佳卡通,https://zby.130519.xyz/PLTV/11/224/3221226021/index.m3u8
