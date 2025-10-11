@@ -2,6 +2,8 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://raw.githubusercontent.com/jerome158/CHN/master/mig.txt
+https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+https://develop202.github.io/migu_video/interface.txt
 https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
 # https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 # https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
