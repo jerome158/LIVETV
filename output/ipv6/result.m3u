@@ -97,6 +97,12 @@ http://go.bkpcp.top/mg/xzws
 http://go.bkpcp.top/mg/xjws
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://go.bkpcp.top/mg/ynws
+#EXTINF:-1 tvg-name="BBC新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC新闻.png" group-title="特区频道",BBC新闻
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-name="BBC新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC新闻.png" group-title="特区频道",BBC新闻
+http://198.16.100.186:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
+#EXTINF:-1 tvg-name="莲花卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/莲花卫视.png" group-title="特区频道",莲花卫视
+http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="特区频道",凤凰中文
 https://live.tvfix.org/live/fhzw/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="特区频道",凤凰中文
@@ -105,14 +111,8 @@ https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
 https://live.tvfix.org/live/jade/index.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="特区频道",翡翠台
 https://live.tvfix.org/live/jade/2/s10000_chi/index.m3u8
-#EXTINF:-1 tvg-name="莲花卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/莲花卫视.png" group-title="特区频道",莲花卫视
-http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="特区频道",无线新闻
 https://live.tvfix.org/live/inews/index.m3u8
-#EXTINF:-1 tvg-name="BBC新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC新闻.png" group-title="特区频道",BBC新闻
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-name="BBC新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC新闻.png" group-title="特区频道",BBC新闻
-http://198.16.100.186:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232618182&ct=19254&tsum=3aebf2128ba27b23c78bfd4160c63750
 #EXTINF:-1 tvg-name="TVB" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB.png" group-title="特区频道",TVB
 https://live.tvfix.org/live/tvbplus/index.m3u8
 #EXTINF:-1 tvg-name="TVB" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB.png" group-title="特区频道",TVB
