@@ -51,8 +51,9 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git checkout master
           cp ../IPV4.txt ./
+          cp ../IPV4.m3u ./
           cp ../output/chanels.gz ./
           cp ../output/htsrc.gz ./
-          git add IPV4.txt chanels.gz htsrc.gz
+          git add IPV4.txt IPV4.m3u chanels.gz htsrc.gz
           git commit -m "Auto sync from GitHub - $(date +'%Y-%m-%d %H:%M:%S')" || echo "没有更改需要提交"
           git push origin master
