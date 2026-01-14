@@ -51,7 +51,7 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git checkout master
           cp ../IPV4.txt ./
-          mv ../userresult.m3u ./IPV4.m3u
+          mv ../output/userresult.m3u ./IPV4.m3u
           cp ../output/chanels.gz ./
           cp ../output/htsrc.gz ./
           git add IPV4.txt IPV4.m3u chanels.gz htsrc.gz
