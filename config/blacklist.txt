@@ -4,3 +4,4 @@
 zhoujie218
 海南.php
 112.6.239.227
+channels/lantian/channel001
