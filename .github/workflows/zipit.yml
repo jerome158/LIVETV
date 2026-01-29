@@ -1,0 +1,58 @@
+name: Compress
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  convert-file:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Create output directory if not exists
+        run: |
+          mkdir -p output
+          
+      - name: Check if userresult.txt exists
+        run: |
+          if [ ! -f "output/userresult.txt" ]; then
+            echo "Warning: userresult.txt not found, creating sample file"
+          fi
+          
+      - name: Convert userresult.txt to chanels.gz
+        run: |
+          echo "Converting userresult.txt to chanels.gz format"
+          cat output/userresult.txt | gzip > output/chanels.gz
+          echo "Conversion completed successfully"
+          
+      - name: Verify converted file
+        run: |
+          echo "Verifying converted file:"
+          echo "File size: $(stat -c%s output/chanels.gz) bytes"
+          echo "Content preview (first 10 lines):"
+          gzip -dc output/chanels.gz | head -n 10
+          echo "Total lines in original file: $(cat output/userresult.txt | wc -l)"
+          echo "Total lines in converted file: $(gzip -dc output/chanels.gz | wc -l)"
+        
+          
+      - name: Commit and push chanels.gz (optional)
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/chanels.gz
+          git commit -m "Convert userresult.txt to chanels.gz format" || echo "No changes to commit"
+          git push
+
+      - name: Trigger sync workflow
+        run: |
+          curl -X POST \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          https://api.github.com/repos/${{ github.repository }}/actions/workflows/sync.yml/dispatches \
+          -d '{"ref":"master"}' || echo "如果工作流不存在，此步骤会失败，但不会影响主流程"

@@ -1,0 +1,59 @@
+name: sync to gitee
+on:
+#  schedule:
+ #   - cron: '0 0-22/2 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync-job:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout GitHub Repo
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Delete target channels
+        run: |
+          if [ ! -f "output/userresult.txt" ]; then
+            echo "错误：源文件 output/userresult.txt 不存在"
+            exit 1
+          fi
+
+          echo "开始删除目标频道内容..."
+          echo "原始文件行数: $(wc -l < output/userresult.txt)"
+
+          sed '/环球频道,#genre#/,/#genre#/{/#genre#/!d;}' output/userresult.txt > output/abc.txt
+          
+          echo "删除完成！"
+          echo "新文件行数: $(wc -l < output/abc.txt)"
+          echo "生成的文件: output/abc.txt"
+          
+      - name: Prepare files for Gitee
+        run: |
+          cp output/abc.txt IPV4.txt
+          echo "文件准备完成，IPV4.txt已生成"
+
+      - name: Clone Gitee Repo
+        env:
+          GITEE_USER: ${{ secrets.GITEE_USER }}
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+          GITEE_REPO: ${{ secrets.GITEE_REPO }}
+        run: |
+          rm -rf gitee-repo
+          git clone "https://${GITEE_USER}:${GITEE_TOKEN}@gitee.com/${GITEE_USER}/${GITEE_REPO}.git" gitee-repo
+
+      - name: Sync Files to Gitee
+        run: |
+          cd gitee-repo
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git checkout master
+          cp ../IPV4.txt ./
+          mv ../output/userresult.m3u ./IPV4.m3u
+          cp ../output/chanels.gz ./
+          cp ../output/htsrc.gz ./
+          git add IPV4.txt IPV4.m3u chanels.gz htsrc.gz
+          git commit -m "Auto sync from GitHub - $(date +'%Y-%m-%d %H:%M:%S')" || echo "没有更改需要提交"
+          git push origin master
