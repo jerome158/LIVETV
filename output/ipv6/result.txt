@@ -31,6 +31,7 @@ CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
 河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1770440653&k=db01f287ab8492970a6320d551bc5189
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1770526175&k=7f32f4d786abf3090a8100a84d9d0e54
 江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
 山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
