@@ -10,3 +10,4 @@
 [KEYWORDS]
 # 以下是关键字白名单，含有关键字的地址会被加入白名单，换行输入。
 # This is the keyword whitelist. Addresses containing keywords will be added to the whitelist, newline input.
+188766.xyz
