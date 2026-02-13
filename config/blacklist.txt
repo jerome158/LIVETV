@@ -3,3 +3,4 @@
 /audio/
 bxtv.3a.ink
 ali-m-l.cztv
+iptv.catvod.com
