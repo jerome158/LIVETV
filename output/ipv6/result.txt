@@ -32,9 +32,9 @@ CCTV-17,https://migu.188766.xyz/?migutoken=7bfdb2e52bb6ecc161b0daa2366c4b86&id=C
 CETV-1,https://migu.188766.xyz/?migutoken=51c979a980ff4e989ead2ac0c4a863d5&id=CETV1&type=yy
 CETV-2,https://migu.188766.xyz/?migutoken=6db919448ebf1a239e0410afa2303634&id=CETV2&type=yy
 CCTV-2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
-CGTN,https://0472.org/hls/cgtn.m3u8
 
 卫视频道,#genre#
 北京卫视,https://migu.188766.xyz/?migutoken=7046a9e2740731bba35f18a05c4a7f71&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
@@ -70,7 +70,7 @@ CGTN,https://0472.org/hls/cgtn.m3u8
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1771560561&k=9f0c0872fb53dccf4d55347a85a1047c
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1771643418&k=16497a707e78b4c202ace4e4a9b8d675
 山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
