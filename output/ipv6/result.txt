@@ -70,12 +70,13 @@ CGTN英语,https://0472.org/hls/cgtn.m3u8
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1771643418&k=16497a707e78b4c202ace4e4a9b8d675
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1771733360&k=a9bf93152365dde1a908be67bc770585
 山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
 
