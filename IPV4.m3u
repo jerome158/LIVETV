@@ -72,9 +72,9 @@ https://vd3.bdstatic.com/mda-ndd9pwn5djrh80tn/480p/h264_delogo/16499193705313449
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="http://10.1.0.167:5180/logo/浙江新闻.png" group-title="地方频道",浙江新闻
 http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道",CCTV-1
-http://pull-hls-f11.douyincdn.com/media/stream-695413775090844332_hd.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773144015&major_anchor_level=common&sign=f112bb2c077cbdddd2a92a5e5e673bdf&t_id=037-202603032000145C277C5565C851659CA0-MOplff
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260303180414&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=61.139.65.104&SecurityKey=20260303180414&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=15885a0d6e110ca8432283605f477e9c&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1772532251209&prlId=4f89b0f1d885527a227fd4a636419cfe1772532251211&jid=4f89b0f1d885527a227fd4a636419cfe1772532250829V&is_advertise=0&sjid=subsession_1772532282994&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8d4c9d769cca10d60641eab99b57eb78
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道",CCTV-1
-http://pull-hls-f11.douyincdn.com/media/stream-695413728117523122.m3u8?expire=1773144616&major_anchor_level=common&sign=ad3ba3f831e729a0dc432fe10587d5a8&t_id=037-2026030320101542E1F9575D3A6D904056-TiBWyO
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv1hd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20260303180008&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=116.169.61.64&SecurityKey=20260303180008&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=3e56c8b8181f1c95815ce9e7b26a7dc8&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1772532004671&prlId=4f89b0f1d885527a227fd4a636419cfe1772532004674&jid=4f89b0f1d885527a227fd4a636419cfe1772532004260V&is_advertise=0&sjid=subsession_1772532036513&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=bc986cdeaa1ca79734df9a3d5f355593
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.167:5180/logo/CCTV-1.png" group-title="央视频道",CCTV-1
 http://112.27.235.94:8000/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.167:5180/logo/CCTV-1.png" group-title="央视频道",CCTV-1
@@ -106,7 +106,7 @@ http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-2" tvg-logo="http://10.1.0.167:5180/logo/CCTV-2.png" group-title="央视频道",CCTV-2
 https://live.metshop.top/bestv.php?id=cctv2hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="" group-title="央视频道",CCTV-3
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=5500212864&pid=2028597139&timestamp=20260303175356&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=36.139.195.72&SecurityKey=20260303175356&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=d220eea6a767112587a52978035abd5d&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1772531632596&prlId=4f89b0f1d885527a227fd4a636419cfe1772531632605&jid=4f89b0f1d885527a227fd4a636419cfe1772531631735V&is_advertise=0&sjid=subsession_1772531741378&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=779fc8e34d66dc135e1317aae6f634b4
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=5500212864&pid=2028597139&timestamp=20260303220603&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=27.38.144.15&SecurityKey=20260303220603&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7ff97dd934ae41b5c6998b272bfe111f&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1772546760840&prlId=4f89b0f1d885527a227fd4a636419cfe1772546760860&jid=4f89b0f1d885527a227fd4a636419cfe1772546760614V&is_advertise=0&sjid=subsession_1772546888089
 #EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="" group-title="央视频道",CCTV-3
 http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-3" tvg-logo="http://10.1.0.167:5180/logo/CCTV-3.png" group-title="央视频道",CCTV-3
@@ -215,8 +215,6 @@ http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 https://live.metshop.top/bestv.php?id=cctv7hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="" group-title="央视频道",CCTV-8
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv8hd265/54/20200407/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=5500212868&pid=2028597139&timestamp=20260303174607&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=36.139.195.49&SecurityKey=20260303174607&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=f5b81068ff7dc35e30824b86f7d27418&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1772531163568&prlId=4f89b0f1d885527a227fd4a636419cfe1772531163588&jid=4f89b0f1d885527a227fd4a636419cfe1772531162239V&is_advertise=0&sjid=subsession_1772531274600&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f84025d71c7626f2c35205acf0bad3f7
-#EXTINF:-1 tvg-id="CCTV8电视剧" tvg-name="CCTV8电视剧" tvg-logo="" group-title="央视频道",CCTV-8
-http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv8hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="CCTV-8" tvg-logo="http://10.1.0.167:5180/logo/CCTV-8.png" group-title="央视频道",CCTV-8
 http://112.27.235.94:8000/hls/9/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-8" tvg-logo="http://10.1.0.167:5180/logo/CCTV-8.png" group-title="央视频道",CCTV-8
@@ -235,6 +233,8 @@ http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
 https://live.metshop.top/bestv.php?id=cctv8hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="" group-title="央视频道",CCTV-9
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/51/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=5501083624&pid=2028597139&timestamp=20260303174542&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=36.139.194.236&SecurityKey=20260303174542&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=8f848c2957353131a8055ce39338f07a&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1772531139324&prlId=4f89b0f1d885527a227fd4a636419cfe1772531139327&jid=4f89b0f1d885527a227fd4a636419cfe1772531138734V&is_advertise=0&sjid=subsession_1772531141849&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e9511f6f24ba9174db5b60f3d8c06ea8
+#EXTINF:-1 tvg-id="CCTV9纪录" tvg-name="CCTV9纪录" tvg-logo="" group-title="央视频道",CCTV-9
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv9hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="CCTV-9" tvg-logo="http://10.1.0.167:5180/logo/CCTV-9.png" group-title="央视频道",CCTV-9
 http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV-9" tvg-logo="http://10.1.0.167:5180/logo/CCTV-9.png" group-title="央视频道",CCTV-9
@@ -339,6 +339,8 @@ http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 https://live.metshop.top/bestv.php?id=cctvsehd8m/8000000
 #EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="" group-title="央视频道",CCTV-15
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/51/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=5501083628&pid=2028597139&timestamp=20260303173640&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=119.123.72.185&SecurityKey=20260303173640&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=b214b9d631cedfaf7112fb211705ba59&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1772530596538&prlId=4f89b0f1d885527a227fd4a636419cfe1772530596632&jid=4f89b0f1d885527a227fd4a636419cfe1772530596130V&is_advertise=0&sjid=subsession_1772530706267&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=5d966e16ec55ab9765bb06bec1333b33
+#EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="" group-title="央视频道",CCTV-15
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="CCTV-15" tvg-logo="http://10.1.0.167:5180/logo/CCTV-15.png" group-title="央视频道",CCTV-15
 http://112.27.235.94:8000/hls/16/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-15" tvg-logo="http://10.1.0.167:5180/logo/CCTV-15.png" group-title="央视频道",CCTV-15
@@ -354,9 +356,9 @@ http://120.76.248.139/live/bfgd/4200000133.m3u8
 #EXTINF:-1 tvg-name="CCTV-15" tvg-logo="http://10.1.0.167:5180/logo/CCTV-15.png" group-title="央视频道",CCTV-15
 https://live.metshop.top/bestv.php?id=cctv15hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="" group-title="央视频道",CCTV-16
-http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="" group-title="央视频道",CCTV-16
 http://69.30.246.194/live/cctv16.m3u8
+#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="" group-title="央视频道",CCTV-16
+http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-16" tvg-logo="http://10.1.0.167:5180/logo/CCTV-16.png" group-title="央视频道",CCTV-16
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV-16" tvg-logo="http://10.1.0.167:5180/logo/CCTV-16.png" group-title="央视频道",CCTV-16
@@ -403,6 +405,8 @@ http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="卫视频道",北京卫视
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/51/20251127/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=600697&netType=4&sid=5910022306&pid=2028597139&timestamp=20260303172725&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=36.133.204.164&SecurityKey=20260303172725&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=ae1e1699f2e8490e5ae5b378f0a21a7a&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1772530041569&prlId=4f89b0f1d885527a227fd4a636419cfe1772530041579&jid=4f89b0f1d885527a227fd4a636419cfe1772530040988V&is_advertise=0&sjid=subsession_1772530042086&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=1b86bef93e16f21ccbdd31833f9f81ed
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="卫视频道",北京卫视
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/bjwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://10.1.0.167:5180/logo/北京卫视.png" group-title="卫视频道",北京卫视
 http://23.237.228.134/live3/beijing.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://10.1.0.167:5180/logo/北京卫视.png" group-title="卫视频道",北京卫视
@@ -425,6 +429,8 @@ http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
 https://live.metshop.top/bestv.php?id=bjwshd8m/8000000
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="卫视频道",东方卫视
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/dongfanghd265/51/20191230/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=600697&netType=4&sid=5910022185&pid=2028597139&timestamp=20260303173215&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=125.65.42.193&SecurityKey=20260303173215&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=666dee8863beaa936c92b87d1a49f021&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1772530332171&prlId=4f89b0f1d885527a227fd4a636419cfe1772530332184&jid=4f89b0f1d885527a227fd4a636419cfe1772530331409V&is_advertise=0&sjid=subsession_1772530442394&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6c76dd557931904073979a9780485166
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="卫视频道",东方卫视
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://10.1.0.167:5180/logo/东方卫视.png" group-title="卫视频道",东方卫视
 http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://10.1.0.167:5180/logo/东方卫视.png" group-title="卫视频道",东方卫视
@@ -576,9 +582,9 @@ http://iptv.huuc.edu.cn/hls/jshd.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://10.1.0.167:5180/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
 https://live.metshop.top/bestv.php?id=jswshd8m/8000000
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="" group-title="卫视频道",山东卫视
-https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/sdws8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="" group-title="卫视频道",山东卫视
-https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
+https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://10.1.0.167:5180/logo/山东卫视.png" group-title="卫视频道",山东卫视
 http://112.27.235.94:8000/hls/34/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://10.1.0.167:5180/logo/山东卫视.png" group-title="卫视频道",山东卫视
@@ -601,6 +607,8 @@ http://stream.snrtv.com/sxbc-star-dkV024.m3u8
 http://112.27.235.94:8000/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://10.1.0.167:5180/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="" group-title="卫视频道",深圳卫视
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/szwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://10.1.0.167:5180/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://23.237.228.134/live6/shenzhen.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://10.1.0.167:5180/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
@@ -619,6 +627,8 @@ http://iptv.huuc.edu.cn/hls/szhd.m3u8
 https://live.metshop.top/bestv.php?id=szwshd8m/8000000
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="卫视频道",广东卫视
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/gdwshd265/54/20200407/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699054&netType=4&sid=2202428795&pid=2028597139&timestamp=20260303172750&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=36.137.8.95&SecurityKey=20260303172750&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=61a97ef1f3173c0fa25de9eb18e0dea6&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1772530066609&prlId=4f89b0f1d885527a227fd4a636419cfe1772530066620&jid=4f89b0f1d885527a227fd4a636419cfe1772530066194V&is_advertise=0&sjid=subsession_1772530175779&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=228b20368e2cf12ef9b436fc3cbde336
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="卫视频道",广东卫视
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/gdwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://10.1.0.167:5180/logo/广东卫视.png" group-title="卫视频道",广东卫视
 https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://10.1.0.167:5180/logo/广东卫视.png" group-title="卫视频道",广东卫视
@@ -749,8 +759,6 @@ http://58.57.40.22:9901/tsfile/live/1042_1.m3u8
 http://120.76.248.139/live/bfgd/4200000101.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://10.1.0.167:5180/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
 https://live.metshop.top/bestv.php?id=gzwshd8m/8000000
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="" group-title="卫视频道",河南卫视
-http://pull-hls-f11.douyincdn.com/media/stream-695407358744986284.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773144885&major_anchor_level=common&sign=b9182c0ce61a5ccf5569c9f02608dc39&t_id=037-2026030320144418CC23C7519A1C26E459-89ZvqZ
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="" group-title="卫视频道",河南卫视
 http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hnwshd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://10.1.0.167:5180/logo/河南卫视.png" group-title="卫视频道",河南卫视
