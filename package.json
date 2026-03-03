@@ -1,0 +1,16 @@
+{
+  "name": "cnh-miv",
+  "version": "1.0.0",
+  "description": "merge process",
+  "type": "module",
+  "main": "mivgo.js",
+  "scripts": {
+    "start": "node mivgo.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["iptv", "m3u"],
+  "author": "",
+  "license": "MIT"
+}
