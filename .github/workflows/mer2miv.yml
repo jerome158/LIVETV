@@ -1,7 +1,7 @@
 name: mer2miv
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */1 * * *'
   push:
     branches:
       - main
@@ -63,4 +63,5 @@ jobs:
         git add IPV4.m3u chanels.gz htsrc.gz
         git commit -m "Auto sync from GitHub - $(date +'%Y-%m-%d %H:%M:%S')" --allow-empty
         git push "https://${GITEE_USER}:${GITEE_TOKEN}@gitee.com/${GITEE_USER}/${GITEE_REPO}.git"
+
 
