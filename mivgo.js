@@ -5,7 +5,7 @@ import { gzipSync } from 'zlib';
 const hdRepoPath = resolve('./output/userresult.m3u');
 const mivgoUrl = 'http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt';
 const m3uOutputPath = resolve('./IPV4.m3u');
-const gzOutputPath = resolve('./channels.gz');
+const gzOutputPath = resolve('./chanels.gz');
 
 // 标准化频道名称，用于匹配
 function normalizeChannelName(name) {
@@ -163,7 +163,7 @@ async function main() {
 
         console.log('✓ 处理完成，文件已保存到当前仓库:');
         console.log('  - IPV4.m3u:', m3uOutputPath);
-        console.log('  - channels.gz:', gzOutputPath);
+        console.log('  - chanels.gz:', gzOutputPath);
         console.log('✓ 原始频道数:', hdData.channels.length);
         console.log('✓ 更新后频道数:', newChannels.length);
 
