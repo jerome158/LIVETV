@@ -9,8 +9,8 @@ const gzOutputPath = resolve('./chanels.gz');
 
 // 标准化频道名称，用于匹配
 function normalizeChannelName(name) {
-    // 处理 CCTV 频道（支持 CCTV1、CCTV1+、CCTV1综合 等格式）
-    const cctvMatch = name.match(/^CCTV(\d+[+]?)/);
+    // 处理 CCTV 频道（支持 CCTV1、CCTV1+、CCTV1综合、CCTV-1 等格式）
+    const cctvMatch = name.match(/^CCTV[-]?(\d+[+]?)/);
     if (cctvMatch) {
         return `CCTV-${cctvMatch[1]}`;
     }
