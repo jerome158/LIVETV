@@ -1,7 +1,7 @@
 name: mer2miv
 on:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '0 */6 * * *'
   push:
     branches:
       - main
@@ -11,10 +11,14 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Set up Node.js
       uses: actions/setup-node@v4
@@ -28,8 +32,10 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add IPV4.m3u chanels.gz
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update IPTV playlist - $(date +'%Y-%m-%d %H:%M')" && git push)
+        touch IPV4.m3u chanels.gz htsrc.gz 2>/dev/null || true
+        git add IPV4.m3u chanels.gz htsrc.gz
+        git commit -m "Update IPTV playlist - $(date +'%Y-%m-%d %H:%M')" --allow-empty
+        git push
 
     - name: Clone Gitee Repo
       env:
@@ -52,8 +58,9 @@ jobs:
         git checkout master 2>/dev/null || git checkout main
         cp ../IPV4.m3u ./
         cp ../chanels.gz ./
-        cp ../htsrc.gz ./
+        cp ../htsrc.gz ./ 2>/dev/null || true
+        touch IPV4.m3u chanels.gz htsrc.gz 2>/dev/null || true
         git add IPV4.m3u chanels.gz htsrc.gz
-        git commit -m "Auto sync from GitHub - $(date +'%Y-%m-%d %H:%M:%S')" || echo "没有更改需要提交"
+        git commit -m "Auto sync from GitHub - $(date +'%Y-%m-%d %H:%M:%S')" --allow-empty
         git push "https://${GITEE_USER}:${GITEE_TOKEN}@gitee.com/${GITEE_USER}/${GITEE_REPO}.git"
 
