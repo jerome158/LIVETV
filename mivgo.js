@@ -67,7 +67,14 @@ function buildM3U(header, channels) {
     const lines = [...header];
 
     for (const channel of channels) {
-        lines.push(channel.extinf);
+        let extinf = channel.extinf;
+        
+        if (channel.nameKey && channel.nameKey.startsWith('CCTV-')) {
+            const normalizedName = channel.nameKey;
+            extinf = extinf.replace(/,[^,\n]+$/, `,${normalizedName}`);
+        }
+        
+        lines.push(extinf);
         lines.push(channel.url);
     }
 
