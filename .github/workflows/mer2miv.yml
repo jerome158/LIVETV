@@ -14,6 +14,9 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        persist-credentials: false
 
     - name: Set up Node.js
       uses: actions/setup-node@v4
@@ -27,8 +30,25 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        
+        # 强制刷新 Git 索引
+        git rm -rf --cached .
+        git reset HEAD .
+        
+        # 添加文件
         git add IPV4.m3u chanels.gz
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update IPTV playlist - $(date +'%Y-%m-%d %H:%M')" && git push)
+        
+        # 检查状态并提交
+        git status
+        git diff --cached --stat
+        
+        if git diff --cached --quiet; then
+          echo "⚠️ 没有检测到文件变化"
+        else
+          git commit -m "Update IPTV playlist - $(date +'%Y-%m-%d %H:%M')"
+          git push https://${{ github.token }}@github.com/${{ github.repository }}.git
+          echo "✅ 文件已提交并推送"
+        fi
 
     - name: Clone Gitee Repo
       env:
@@ -55,4 +75,5 @@ jobs:
         git add IPV4.m3u chanels.gz htsrc.gz
         git commit -m "Auto sync from GitHub - $(date +'%Y-%m-%d %H:%M:%S')" || echo "没有更改需要提交"
         git push "https://${GITEE_USER}:${GITEE_TOKEN}@gitee.com/${GITEE_USER}/${GITEE_REPO}.git"
+
 
