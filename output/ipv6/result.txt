@@ -95,6 +95,7 @@ CGTN英语,https://0472.org/hls/cgtn.m3u8
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1772600681&k=90f1c0964c363520c72ec1bf22a4f797
 河北卫视,https://live.metshop.top/bestv.php?id=hbwshd8m/8000000
 江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
 江苏卫视,https://live.metshop.top/bestv.php?id=jswshd8m/8000000
