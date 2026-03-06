@@ -69,6 +69,7 @@ CCTV-14,https://live.metshop.top/bestv.php?id=cctvsehd8m/8000000
 CCTV-15,https://live.metshop.top/bestv.php?id=cctv15hd8m/8000000
 CCTV-16,https://live.metshop.top/bestv.php?id=cctv16hd8m/8000000
 CCTV-16,https://live.metshop.top/bestv.php?id=cctv16hd4k/15000000
+CCTV-17,http://lu.wqwqwq.sbs/itv/1000000005000265015.m3u8?cdn=ystenlive
 CCTV-17,https://live.metshop.top/bestv.php?id=cctv17hd8m/8000000
 CCTV-4K,https://live.metshop.top/bestv.php?id=cctv4k/15000000
 CETV-1,https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
@@ -94,7 +95,7 @@ CGTN英语,https://0472.org/hls/cgtn.m3u8
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1772683363&k=7b3a4c24f53a233f404e6c217edd456c
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1772766276&k=50457d406c27d8923fbca61d5de379c4
 河北卫视,https://live.metshop.top/bestv.php?id=hbwshd8m/8000000
 江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
 江苏卫视,https://live.metshop.top/bestv.php?id=jswshd8m/8000000
