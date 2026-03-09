@@ -357,6 +357,8 @@ http://183.11.239.36:808/hls/169/index.m3u8
 https://live.metshop.top/bestv.php?id=cctv16hd8m/8000000
 #EXTINF:-1 tvg-name="CCTV-16" tvg-logo="http://10.1.0.113:5180/logo/CCTV-16.png" group-title="央视频道",CCTV-16
 https://live.metshop.top/bestv.php?id=cctv16hd4k/15000000
+#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="" group-title="央视频道",CCTV-17
+http://pull-hls-f11.douyincdn.com/media/stream-407213179642053292.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773619479&major_anchor_level=common&sign=bc2d4a3036fd27024f2c218c2fea7c91&t_id=037-202603090804382D2980E60B5163A589BB-tclVJX
 #EXTINF:-1 tvg-name="CCTV-17" tvg-logo="http://10.1.0.113:5180/logo/CCTV-17.png" group-title="央视频道",CCTV-17
 http://drive.mxmy.net:8888/udp/239.3.1.151:8144
 #EXTINF:-1 tvg-name="CCTV-17" tvg-logo="http://10.1.0.113:5180/logo/CCTV-17.png" group-title="央视频道",CCTV-17
