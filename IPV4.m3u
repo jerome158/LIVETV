@@ -89,8 +89,6 @@ http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 https://live.metshop.top/bestv.php?id=cctv1hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="" group-title="央视频道",CCTV-2
 http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773806307&major_anchor_level=common&sign=26df1db545d069eb52f37cc9e31f4d3c&t_id=037-2026031111582683916CAD1DF66CD09662-UtkRAa
-#EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="" group-title="央视频道",CCTV-2
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv2hd265/54/20200407/01.m3u8?msisdn=c51d5bdf7da3f733f5f7fec9903f7fae&mdspid=&spid=699004&netType=4&sid=5500346945&pid=2028597139&timestamp=20260313120832&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=113.87.131.145&SecurityKey=20260313120832&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=1d25c8cba26b2f2069b21083e0c689dd&sv=10004&ct=android&playUrlSsn=c51d5bdf7da3f733f5f7fec9903f7fae1773374911123&prlId=c51d5bdf7da3f733f5f7fec9903f7fae1773374911123&jid=c51d5bdf7da3f733f5f7fec9903f7fae1773374910942V&is_advertise=0&sjid=subsession_1773375014259&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a6717d03a2b567cd266794487db322c1
 #EXTINF:-1 tvg-name="CCTV-2" tvg-logo="http://10.1.0.89:5180/logo/CCTV-2.png" group-title="央视频道",CCTV-2
 http://120.76.248.139/live/bfgd/4200000061.m3u8
 #EXTINF:-1 tvg-name="CCTV-2" tvg-logo="http://10.1.0.89:5180/logo/CCTV-2.png" group-title="央视频道",CCTV-2
