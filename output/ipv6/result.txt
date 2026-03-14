@@ -95,13 +95,11 @@ CGTN英语,https://0472.org/hls/cgtn.m3u8
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1773376765&k=160ce98f37413f67afbf1379fc12e6fb
 河北卫视,https://live.metshop.top/bestv.php?id=hbwshd8m/8000000
 江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
 江苏卫视,https://live.metshop.top/bestv.php?id=jswshd8m/8000000
 山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
 山东卫视,https://live.metshop.top/bestv.php?id=sdws8m/8000000
-陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 深圳卫视,https://live.metshop.top/bestv.php?id=szwshd8m/8000000
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
@@ -115,6 +113,7 @@ CGTN英语,https://0472.org/hls/cgtn.m3u8
 甘肃卫视,https://live.metshop.top/bestv.php?id=gswshd8m/8000000
 广西卫视,https://live.metshop.top/bestv.php?id=gxwshd8m/8000000
 贵州卫视,https://live.metshop.top/bestv.php?id=gzwshd8m/8000000
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=37e475cf63f8bc6702f21366202fc368&wsTime=1773471997
 河南卫视,https://live.metshop.top/bestv.php?id=hnwshd8m/8000000
 吉林卫视,https://live.metshop.top/bestv.php?id=jlwshd8m/8000000
 江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
