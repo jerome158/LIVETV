@@ -113,6 +113,7 @@ CGTN英语,https://0472.org/hls/cgtn.m3u8
 甘肃卫视,https://live.metshop.top/bestv.php?id=gswshd8m/8000000
 广西卫视,https://live.metshop.top/bestv.php?id=gxwshd8m/8000000
 贵州卫视,https://live.metshop.top/bestv.php?id=gzwshd8m/8000000
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=b592aba8ebafc1bad7d368e82fa07714&wsTime=1773641858
 河南卫视,https://live.metshop.top/bestv.php?id=hnwshd8m/8000000
 吉林卫视,https://live.metshop.top/bestv.php?id=jlwshd8m/8000000
 江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
