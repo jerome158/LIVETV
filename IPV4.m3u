@@ -78,6 +78,8 @@ http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="http://10.1.0.232:5180/logo/浙江新闻.png" group-title="地方频道",浙江新闻
 http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道",CCTV-1
+http://pull-hls-f11.douyincdn.com/media/stream-407294265065210540.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774823450&major_anchor_level=common&sign=c7abeab17fb9184ab7866d821877747a&t_id=037-20260323063050641A6B456F2EED1F226A-Ipb258
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道",CCTV-1
 http://play.kankanlive.com/live/1698234869325962.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.232:5180/logo/CCTV-1.png" group-title="央视频道",CCTV-1
 http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
