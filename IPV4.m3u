@@ -72,6 +72,8 @@ https://vd3.bdstatic.com/mda-ndd9pwn5djrh80tn/480p/h264_delogo/16499193705313449
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="http://10.1.0.179:5180/logo/浙江新闻.png" group-title="地方频道",浙江新闻
 http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道",CCTV-1
+http://pull-hls-f11.douyincdn.com/media/stream-407305982338400940.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774996096&major_anchor_level=common&sign=106e74adea885a99624db213f9e7a624&t_id=037-202603250628152EEAD1FDEDE598333DF1-Wxm5kJ
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道",CCTV-1
 http://play.kankanlive.com/live/1698234869325962.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.179:5180/logo/CCTV-1.png" group-title="央视频道",CCTV-1
 http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
@@ -397,8 +399,6 @@ https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 https://live.metshop.top/bestv.php?id=cctv16hd8m/8000000
 #EXTINF:-1 tvg-name="CCTV-16" tvg-logo="http://10.1.0.179:5180/logo/CCTV-16.png" group-title="央视频道",CCTV-16
 https://live.metshop.top/bestv.php?id=cctv16hd4k/15000000
-#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="" group-title="央视频道",CCTV-17
-http://pull-hls-f11.douyincdn.com/media/stream-407300149638333100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774918675&major_anchor_level=common&sign=d16ed2b4763ac4d27b9e4c5f44a1598a&t_id=037-2026032408575561E42E69F9AEF4397C87-YUgwCT
 #EXTINF:-1 tvg-name="CCTV-17" tvg-logo="http://10.1.0.179:5180/logo/CCTV-17.png" group-title="央视频道",CCTV-17
 http://222.169.85.8:9901/tsfile/live/0007_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-17" tvg-logo="http://10.1.0.179:5180/logo/CCTV-17.png" group-title="央视频道",CCTV-17
