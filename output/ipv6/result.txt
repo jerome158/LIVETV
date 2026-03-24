@@ -161,7 +161,6 @@ CGTN英语,https://0472.org/hls/cgtn.m3u8
 贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
 贵州卫视,https://live.metshop.top/bestv.php?id=gzwshd8m/8000000
 河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=c7974a2e37bc4f30e3494f91e2ef0d42&wsTime=1774247660
 河南卫视,https://live.metshop.top/bestv.php?id=hnwshd8m/8000000
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
