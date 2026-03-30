@@ -1,7 +1,4 @@
 央视频道,#genre#
-重温经典,http://8.138.7.223/tv/cwjd.php
-CGTN英语,https://0472.org/hls/cgtn.m3u8
-CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -54,12 +51,10 @@ CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
 CCTV-12,https://live.metshop.top/bestv.php?id=cctv12hd8m/8000000
 CCTV-13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV-13,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
-CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://live.metshop.top/bestv.php?id=cctv13xwhd8m/8000000
 CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
 CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
-CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-14,https://live.metshop.top/bestv.php?id=cctvsehd8m/8000000
 CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV-15,https://live.metshop.top/bestv.php?id=cctv15hd8m/8000000
@@ -67,9 +62,9 @@ CCTV-16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 CCTV-16,https://live.metshop.top/bestv.php?id=cctv16hd8m/8000000
 CCTV-16,https://live.metshop.top/bestv.php?id=cctv16hd4k/15000000
 CCTV-17,https://live.metshop.top/bestv.php?id=cctv17hd8m/8000000
-CETV-1,https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+CETV-1,https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
 
 数字高清,#genre#
 东方4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
@@ -88,6 +83,9 @@ CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 人在囧途,https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
 人在囧途,https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
 人在囧途,https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
+重温经典,http://8.138.7.223/tv/cwjd.php
+CGTN英语,https://0472.org/hls/cgtn.m3u8
+CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
 卫视频道,#genre#
 浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
@@ -137,7 +135,6 @@ CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 重庆卫视,https://live.metshop.top/bestv.php?id=cqws8m/8000000
 东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
 东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
-东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 东南卫视,https://live.metshop.top/bestv.php?id=dnwshd8m/8000000
 甘肃卫视,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
 甘肃卫视,https://live.metshop.top/bestv.php?id=gswshd8m/8000000
@@ -147,7 +144,6 @@ CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
 贵州卫视,https://live.metshop.top/bestv.php?id=gzwshd8m/8000000
 河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
-河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 河南卫视,https://live.metshop.top/bestv.php?id=hnwshd8m/8000000
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
@@ -159,6 +155,7 @@ CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 辽宁卫视,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
 辽宁卫视,https://live.metshop.top/bestv.php?id=lnwshd8m/8000000
 青海卫视,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
+青海卫视,http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
 山西卫视,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
