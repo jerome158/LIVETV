@@ -4,6 +4,8 @@ https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="http://10.1.0.138:5180/logo/CGTN纪录.png" group-title="央视频道",CGTN纪录
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道",CCTV-1
+http://pull-hls-f11.douyincdn.com/media/stream-407346510589330092.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775600953&major_anchor_level=common&sign=d8950d24c119e5b40711db716443b228&t_id=037-20260401062912C001A4CFB41961895974-tKq7Ug
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道",CCTV-1
 http://play.kankanlive.com/live/1698234869325962.m3u8
 #EXTINF:-1 tvg-name="CCTV-1" tvg-logo="http://10.1.0.138:5180/logo/CCTV-1.png" group-title="央视频道",CCTV-1
 http://112.27.235.94:8000/hls/1/index.m3u8
