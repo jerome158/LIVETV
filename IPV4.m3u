@@ -183,8 +183,6 @@ http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
 http://gmxw.7766.org:808/hls/169/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-16" tvg-logo="http://10.1.0.114:5180/logo/CCTV-16.png" group-title="央视频道",CCTV-16
 https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
-#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="" group-title="央视频道",CCTV-17
-http://pull-hls-f26.douyincdn.com/media/stream-119150853951062700.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69dd9199&major_anchor_level=common&sign=5cc99af04c1583c04f9924d4712ed371&t_id=037-202604070900091F94012DF4EA7E4C51CD-RT6BD6
 #EXTINF:-1 tvg-name="CCTV-17" tvg-logo="http://10.1.0.114:5180/logo/CCTV-17.png" group-title="央视频道",CCTV-17
 http://120.76.248.139/live/bfgd/4200000204.m3u8
 #EXTINF:-1 tvg-name="CCTV-17" tvg-logo="http://10.1.0.114:5180/logo/CCTV-17.png" group-title="央视频道",CCTV-17
