@@ -58,7 +58,6 @@ CCTV-14,https://live.metshop.top/bestv.php?id=cctvsehd8m/8000000
 CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV-15,https://live.metshop.top/bestv.php?id=cctv15hd8m/8000000
 CCTV-16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
-CCTV-16,http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive
 CCTV-16,https://live.metshop.top/bestv.php?id=cctv16hd8m/8000000
 CCTV-16,https://live.metshop.top/bestv.php?id=cctv16hd4k/15000000
 CCTV-17,https://live.metshop.top/bestv.php?id=cctv17hd8m/8000000
@@ -99,7 +98,7 @@ CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 河北卫视,https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1777356118&k=9c15e6d667bc0bd4f7ab16b12829049c
+河北卫视,https://live.metshop.top/bestv.php?id=hbwshd8m/8000000
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
 北京卫视,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
 北京卫视,https://live.metshop.top/bestv.php?id=bjwshd8m/8000000
@@ -135,6 +134,7 @@ CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 重庆卫视,https://live.metshop.top/bestv.php?id=cqws8m/8000000
 东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
 东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 东南卫视,https://live.metshop.top/bestv.php?id=dnwshd8m/8000000
 甘肃卫视,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
 甘肃卫视,https://live.metshop.top/bestv.php?id=gswshd8m/8000000
@@ -144,6 +144,8 @@ CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
 贵州卫视,https://live.metshop.top/bestv.php?id=gzwshd8m/8000000
 河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e3baf1204fcf28a4616b43ebf18a1acd&wsTime=1777449659
+河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 河南卫视,https://live.metshop.top/bestv.php?id=hnwshd8m/8000000
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
@@ -155,7 +157,6 @@ CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 辽宁卫视,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
 辽宁卫视,https://live.metshop.top/bestv.php?id=lnwshd8m/8000000
 青海卫视,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
-青海卫视,http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
 山西卫视,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 四川卫视,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
