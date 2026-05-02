@@ -61,8 +61,8 @@ CCTV-16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 CCTV-16,https://live.metshop.top/bestv.php?id=cctv16hd8m/8000000
 CCTV-16,https://live.metshop.top/bestv.php?id=cctv16hd4k/15000000
 CCTV-17,https://live.metshop.top/bestv.php?id=cctv17hd8m/8000000
-CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+CGTN,https://0472.org/hls/cgtn.m3u8
 CETV-1,https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
 
 数字高清,#genre#
@@ -144,6 +144,7 @@ CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
 贵州卫视,https://live.metshop.top/bestv.php?id=gzwshd8m/8000000
 河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=5c163e72b2f247f031734415d72519c6&wsTime=1777705315
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 河南卫视,https://live.metshop.top/bestv.php?id=hnwshd8m/8000000
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
