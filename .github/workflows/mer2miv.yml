@@ -71,11 +71,10 @@ jobs:
         git pull origin main --rebase || true
         mkdir -p res
 
-        cp ../IPV4.m3u ./res/
         cp ../chanels.gz ./res/
         cp ../htsrc.gz ./res/
 
-        git add res/IPV4.m3u res/chanels.gz res/htsrc.gz
+        git add res/chanels.gz res/htsrc.gz
 
         git commit -m "Auto sync from GitHub to res dir - $(date +'%Y-%m-%d %H:%M:%S')" || echo "没有更改需要提交"
         git push origin main
