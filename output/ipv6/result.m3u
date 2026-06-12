@@ -192,7 +192,7 @@ https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://10.1.0.168:5180/logo/河北卫视.png" group-title="卫视频道",河北卫视
 http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://10.1.0.168:5180/logo/河北卫视.png" group-title="卫视频道",河北卫视
-https://live.metshop.top/bestv.php?id=hbwshd8m/8000000
+https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1781241527&k=e16eab977d0b7d1da8cbafaca46653c7
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://10.1.0.168:5180/logo/北京卫视.png" group-title="卫视频道",北京卫视
 http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://10.1.0.168:5180/logo/北京卫视.png" group-title="卫视频道",北京卫视
@@ -284,7 +284,7 @@ https://live.metshop.top/bestv.php?id=gzwshd8m/8000000
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://10.1.0.168:5180/logo/河南卫视.png" group-title="卫视频道",河南卫视
 https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://10.1.0.168:5180/logo/河南卫视.png" group-title="卫视频道",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=be09b6aa413c45cdb5e9a8155ddf3014&wsTime=1781166599
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=78676ca39595a34fbe4918aa887efd08&wsTime=1781253030
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://10.1.0.168:5180/logo/河南卫视.png" group-title="卫视频道",河南卫视
 https://live.metshop.top/bestv.php?id=hnwshd8m/8000000
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://10.1.0.168:5180/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
