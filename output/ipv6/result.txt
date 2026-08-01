@@ -41,7 +41,6 @@ CCTV-4,https://live.metshop.top/bestv.php?id=cctv4hd8m/8000000
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
 CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
-CCTV-5,https://btrace.yangshipin.cn/kvcollect?BossId=8206&c_timestamp=ms8do9is_cvqge9cgm3u
 CCTV-5,https://live.metshop.top/bestv.php?id=cctv58m/8000000
 CCTV-5+,https://live.metshop.top/bestv.php?id=cctv5phd8m/8000000
 CCTV-6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
@@ -93,7 +92,7 @@ CETV-1,https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
 浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1785077081-40ae9b8164b41d7a12a232241d828d7e-0-5012f2d1db9979a47a834543a5d5510d
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江卫视,https://live.metshop.top/bestv.php?id=zjwshd8m/8000000
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 黑龙江卫视,https://live.metshop.top/bestv.php?id=hljwshd8m/8000000
@@ -101,7 +100,7 @@ CETV-1,https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
 河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 河北卫视,https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
-河北卫视,https://live.metshop.top/bestv.php?id=hbwshd8m/8000000
+河北卫视,https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1785081075&k=0ff9a48c7e8b80940a4d56cb1f964541
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
 北京卫视,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
 北京卫视,https://live.metshop.top/bestv.php?id=bjwshd8m/8000000
