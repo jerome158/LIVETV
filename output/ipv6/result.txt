@@ -36,6 +36,7 @@ CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
 CCTV-3,https://live.metshop.top/bestv.php?id=cctv38m/8000000
 CCTV-4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 CCTV-4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
+CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4,https://live.metshop.top/bestv.php?id=cctv4hd8m/8000000
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
@@ -56,6 +57,7 @@ CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
 CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
 CCTV-8,https://live.metshop.top/bestv.php?id=cctv8hd8m/8000000
 CCTV-9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 CCTV-9,https://live.metshop.top/bestv.php?id=cctv9hd8m/8000000
 CCTV-10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
@@ -64,6 +66,7 @@ CCTV-10,https://live.metshop.top/bestv.php?id=cctv10hd8m/8000000
 CCTV-11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8
 CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
+CCTV-11,https://xykt-fix.github.io/play/a02b/index.m3u8
 CCTV-11,https://live.metshop.top/bestv.php?id=cctv11hd8m/8000000
 CCTV-12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8
@@ -91,7 +94,7 @@ CETV-1,https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
 浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1787173109-637dd97c4689150fb71f694343de105f-0-015e2595c5533e09ee4ee267335d783d
-浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+浙江卫视,https://live.metshop.top/bestv.php?id=zjwshd8m/8000000
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 黑龙江卫视,https://live.metshop.top/bestv.php?id=hljwshd8m/8000000
@@ -145,6 +148,7 @@ CETV-1,https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
 贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
 贵州卫视,https://live.metshop.top/bestv.php?id=gzwshd8m/8000000
 河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=55e30d18ecddaf08736ccd553742638e&wsTime=1787227332
 河南卫视,https://live.metshop.top/bestv.php?id=hnwshd8m/8000000
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
