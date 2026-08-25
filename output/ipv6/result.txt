@@ -56,7 +56,6 @@ CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
 CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
 CCTV-8,https://live.metshop.top/bestv.php?id=cctv8hd8m/8000000
 CCTV-9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
-CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 CCTV-9,https://live.metshop.top/bestv.php?id=cctv9hd8m/8000000
 CCTV-10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
@@ -100,7 +99,7 @@ CETV-1,https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
 河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 河北卫视,https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
-河北卫视,https://live.metshop.top/bestv.php?id=hbwshd8m/8000000
+河北卫视,https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1787109193&k=fc94a0fbeecab7abcffe9bc09f7e3b91
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
 北京卫视,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
 北京卫视,https://live.metshop.top/bestv.php?id=bjwshd8m/8000000
