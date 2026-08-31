@@ -21,7 +21,6 @@ CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 
 央视频道,#genre#
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
-CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
@@ -83,15 +82,14 @@ CCTV-16,https://live.metshop.top/bestv.php?id=cctv16hd8m/8000000
 CCTV-16,https://live.metshop.top/bestv.php?id=cctv16hd4k/15000000
 CCTV-17,https://live.metshop.top/bestv.php?id=cctv17hd8m/8000000
 CGTN,https://0472.org/hls/cgtn.m3u8
-CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CETV-1,https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
 
 卫视频道,#genre#
 浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1787534656-5d0ec53ac67563cc543c69854faf1aa2-0-8f68c9b0a679799e12dae83ba40de7bd
-浙江卫视,https://live.metshop.top/bestv.php?id=zjwshd8m/8000000
+浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1787869368-4a9ce348e25f68038ff5787925a53add-0-7d59c3961321cbe7471a0817469d8117
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 黑龙江卫视,https://live.metshop.top/bestv.php?id=hljwshd8m/8000000
@@ -141,12 +139,11 @@ CETV-1,https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
 甘肃卫视,https://live.metshop.top/bestv.php?id=gswshd8m/8000000
 广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
 广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
-广西卫视,https://gd202.tv1288.xyz/tsfile/live/1028_1.m3u8
 广西卫视,https://live.metshop.top/bestv.php?id=gxwshd8m/8000000
 贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
 贵州卫视,https://live.metshop.top/bestv.php?id=gzwshd8m/8000000
 河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=46c495ba80c8f86e3c719d8084280165&wsTime=1787555957
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=0339d167a46ffd34ce2479b992f28618&wsTime=1787873125
 河南卫视,https://live.metshop.top/bestv.php?id=hnwshd8m/8000000
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
@@ -158,7 +155,6 @@ CETV-1,https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
 辽宁卫视,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
 辽宁卫视,https://live.metshop.top/bestv.php?id=lnwshd8m/8000000
 青海卫视,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
-青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 山西卫视,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 四川卫视,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
@@ -205,7 +201,6 @@ BBC新闻,http://198.16.100.186:8278/bbc2_antik/playlist.m3u8?tid=MABA3261818232
 邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 陕西长影,http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 辽宁都市,http://120.76.248.139/live/bfgd/4200000068.m3u8
-辽宁都市,https://ls.qingting.fm/live/1099/64k.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 朝阳新闻,http://120.76.248.139/live/bfgd/4200000282.m3u8
 辽宁影视,http://120.76.248.139/live/bfgd/4200000070.m3u8
