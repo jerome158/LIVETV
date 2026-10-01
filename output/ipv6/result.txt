@@ -108,7 +108,7 @@ CETV-1,https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
 浙江卫视,https://play-qukan.cztv.com/live/1746687519046362.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
-浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1790144890-df0287bc38663a035678e5526e7b9779-0-c0ec1149083332c28046ae558e13a53a
+浙江卫视,http://zwebl02.cztv.com/live/channel01720Pnew.m3u8?auth_key=1790774944-b3ef21ee24e141de005bc4b6c0c6431d-0-0ee1eff4632c936985539c222a9fb285
 浙江卫视,https://live.metshop.top/bestv.php?id=zjwshd8m/8000000
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
@@ -117,7 +117,7 @@ CETV-1,https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
 河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 河北卫视,https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
-河北卫视,https://live.metshop.top/bestv.php?id=hbwshd8m/8000000
+河北卫视,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1790782916&k=d43d5d6075dd9a5702e2bc61a3c15797
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
 北京卫视,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
 北京卫视,https://live.metshop.top/bestv.php?id=bjwshd8m/8000000
@@ -177,7 +177,7 @@ CETV-1,https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
 贵州卫视,https://live.metshop.top/bestv.php?id=gzwshd8m/8000000
 河南卫视,http://t.061899.xyz/tl/tl.php?id=hnws
 河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=3435d3b5ecc7966d5436c9d58403e466&wsTime=1790157918
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=78bbeb3b6b4f097b23098c38f9bb4635&wsTime=1790789344
 河南卫视,https://live.metshop.top/bestv.php?id=hnwshd8m/8000000
 吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
